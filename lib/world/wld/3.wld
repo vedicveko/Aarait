@@ -1,0 +1,1997 @@
+#300
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 0 180
+D1
+~
+~
+0 -1 301
+D2
+~
+~
+0 -1 320
+S
+#301
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 0 181
+D1
+~
+~
+0 -1 302
+D2
+~
+~
+0 -1 321
+D3
+~
+~
+0 -1 300
+S
+#302
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 0 182
+D1
+~
+~
+0 -1 303
+D2
+~
+~
+0 -1 322
+D3
+~
+~
+0 -1 301
+S
+#303
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D1
+~
+~
+0 -1 304
+D2
+~
+~
+0 -1 323
+D3
+~
+~
+0 -1 302
+S
+#304
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 0 184
+D1
+~
+~
+0 -1 305
+D2
+~
+~
+0 -1 324
+D3
+~
+~
+0 -1 303
+S
+#305
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 0 185
+D1
+~
+~
+0 -1 306
+D2
+~
+~
+0 -1 325
+D3
+~
+~
+0 -1 304
+S
+#306
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 0 186
+D1
+~
+~
+0 -1 307
+D2
+~
+~
+0 -1 326
+D3
+~
+~
+0 -1 305
+S
+#307
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 0 187
+D1
+~
+~
+0 -1 308
+D2
+~
+~
+0 -1 327
+D3
+~
+~
+0 -1 306
+S
+#308
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 0 188
+D1
+~
+~
+0 -1 309
+D2
+~
+~
+0 -1 328
+D3
+~
+~
+0 -1 307
+S
+#309
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 0 189
+D1
+~
+~
+0 -1 310
+D2
+~
+~
+0 -1 329
+D3
+~
+~
+0 -1 308
+S
+#310
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 0 190
+D1
+~
+~
+0 -1 311
+D3
+~
+~
+0 -1 309
+S
+#311
+Room~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 0 191
+D1
+~
+~
+0 -1 312
+D2
+~
+~
+0 -1 331
+D3
+~
+~
+0 -1 310
+S
+#312
+Allyton Mill - First Floor~
+This description is yet unfinished...
+~
+3 d 0
+D0
+~
+~
+0 0 192
+D3
+~
+~
+0 -1 311
+S
+#313
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 0 193
+D1
+~
+~
+0 -1 314
+D2
+~
+~
+0 -1 333
+S
+#314
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 0 194
+D1
+~
+~
+0 -1 315
+D2
+~
+~
+0 -1 334
+D3
+~
+~
+0 -1 313
+S
+#315
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 0 195
+D1
+~
+~
+0 -1 316
+D2
+~
+~
+0 -1 335
+D3
+~
+~
+0 -1 314
+S
+#316
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 0 196
+D1
+~
+~
+0 -1 317
+D2
+~
+~
+0 -1 336
+D3
+~
+~
+0 -1 315
+S
+#317
+Room~
+This description is yet unfinished...
+~
+3 0 20
+D0
+~
+~
+0 0 197
+D1
+~
+~
+0 -1 318
+D2
+~
+~
+0 -1 337
+D3
+~
+~
+0 -1 316
+S
+#318
+Room~
+This description is yet unfinished...
+~
+3 0 20
+D0
+~
+~
+0 0 198
+D1
+~
+~
+0 -1 319
+D2
+~
+~
+0 -1 338
+D3
+~
+~
+0 -1 317
+S
+#319
+Room~
+This description is yet unfinished...
+~
+3 0 20
+D0
+~
+~
+0 0 199
+D1
+~
+~
+0 0 400
+D2
+~
+~
+0 -1 339
+D3
+~
+~
+0 -1 318
+S
+#320
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 300
+D1
+~
+~
+0 -1 321
+D2
+~
+~
+0 -1 340
+S
+#321
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 301
+D1
+~
+~
+0 -1 322
+D2
+~
+~
+0 -1 341
+D3
+~
+~
+0 -1 320
+S
+#322
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 302
+D1
+~
+~
+0 -1 323
+D2
+~
+~
+0 -1 342
+D3
+~
+~
+0 -1 321
+S
+#323
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 303
+D1
+~
+~
+0 -1 324
+D2
+~
+~
+0 -1 343
+D3
+~
+~
+0 -1 322
+S
+#324
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 304
+D1
+~
+~
+0 -1 325
+D2
+~
+~
+0 -1 344
+D3
+~
+~
+0 -1 323
+S
+#325
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 305
+D1
+~
+~
+0 -1 326
+D2
+~
+~
+0 -1 345
+D3
+~
+~
+0 -1 324
+S
+#326
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 306
+D1
+~
+~
+0 -1 327
+D2
+~
+~
+0 -1 346
+D3
+~
+~
+0 -1 325
+S
+#327
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 307
+D1
+~
+~
+0 -1 328
+D2
+~
+~
+0 -1 347
+D3
+~
+~
+0 -1 326
+S
+#328
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 308
+D1
+~
+~
+0 -1 329
+D2
+~
+~
+0 -1 348
+D3
+~
+~
+0 -1 327
+S
+#329
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 309
+D3
+~
+~
+0 -1 328
+S
+#330
+Room~
+This description is yet unfinished...
+~
+3 d 0
+D1
+~
+~
+0 -1 331
+S
+#331
+Mill Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 311
+D1
+~
+~
+0 -1 332
+D2
+~
+~
+0 -1 351
+D3
+~
+~
+0 -1 330
+S
+#332
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D1
+~
+~
+0 -1 333
+D3
+~
+~
+0 -1 331
+S
+#333
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 313
+D1
+~
+~
+0 -1 334
+D3
+~
+~
+0 -1 332
+S
+#334
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 -1 314
+D1
+~
+~
+0 -1 335
+D2
+~
+~
+0 -1 354
+D3
+~
+~
+0 -1 333
+S
+#335
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 -1 315
+D1
+~
+~
+0 -1 336
+D2
+~
+~
+0 -1 355
+D3
+~
+~
+0 -1 334
+S
+#336
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 -1 316
+D1
+~
+~
+0 -1 337
+D2
+~
+~
+0 -1 356
+D3
+~
+~
+0 -1 335
+S
+#337
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 -1 317
+D1
+~
+~
+0 -1 338
+D2
+~
+~
+0 -1 357
+D3
+~
+~
+0 -1 336
+S
+#338
+Room~
+This description is yet unfinished...
+~
+3 0 20
+D0
+~
+~
+0 -1 318
+D1
+~
+~
+0 -1 339
+D2
+~
+~
+0 -1 358
+D3
+~
+~
+0 -1 337
+S
+#339
+Room~
+This description is yet unfinished...
+~
+3 0 20
+D0
+~
+~
+0 -1 319
+D1
+~
+~
+0 0 420
+D2
+~
+~
+0 -1 359
+D3
+~
+~
+0 -1 338
+S
+#340
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 320
+D1
+~
+~
+0 -1 341
+D2
+~
+~
+0 -1 360
+S
+#341
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 321
+D1
+~
+~
+0 -1 342
+D2
+~
+~
+0 -1 361
+D3
+~
+~
+0 -1 340
+S
+#342
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 322
+D1
+~
+~
+0 -1 343
+D2
+~
+~
+0 -1 362
+D3
+~
+~
+0 -1 341
+S
+#343
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 323
+D1
+~
+~
+0 -1 344
+D2
+~
+~
+0 -1 363
+D3
+~
+~
+0 -1 342
+S
+#344
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 324
+D1
+~
+~
+0 -1 345
+D2
+~
+~
+0 -1 364
+D3
+~
+~
+0 -1 343
+S
+#345
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 325
+D1
+~
+~
+0 -1 346
+D2
+~
+~
+0 -1 365
+D3
+~
+~
+0 -1 344
+S
+#346
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 326
+D1
+~
+~
+0 -1 347
+D2
+~
+~
+0 -1 366
+D3
+~
+~
+0 -1 345
+S
+#347
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 327
+D1
+~
+~
+0 -1 348
+D2
+~
+~
+0 -1 367
+D3
+~
+~
+0 -1 346
+S
+#348
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 328
+D2
+~
+~
+0 -1 368
+D3
+~
+~
+0 -1 347
+S
+#349
+Room~
+This description is yet unfinished...
+~
+3 d 0
+D2
+~
+~
+0 -1 369
+S
+#350
+Room~
+This description is yet unfinished...
+~
+3 d 0
+D2
+~
+~
+0 0 370
+S
+#351
+Mill Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 331
+D2
+~
+~
+0 -1 371
+S
+#352
+Room~
+This description is yet unfinished...
+~
+3 d 0
+D2
+~
+~
+0 -1 372
+S
+#353
+The Meat Shack~
+This description is yet unfinished...
+~
+3 d 0
+D2
+~
+~
+0 -1 373
+S
+#354
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 334
+D1
+~
+~
+0 -1 355
+D2
+~
+~
+0 -1 374
+S
+#355
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 -1 335
+D1
+~
+~
+0 -1 356
+D2
+~
+~
+0 -1 375
+D3
+~
+~
+0 -1 354
+S
+#356
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 -1 336
+D1
+~
+~
+0 -1 357
+D2
+~
+~
+0 -1 376
+D3
+~
+~
+0 -1 355
+S
+#357
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 -1 337
+D1
+~
+~
+0 -1 358
+D2
+~
+~
+0 -1 377
+D3
+~
+~
+0 -1 356
+S
+#358
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 -1 338
+D1
+~
+~
+0 -1 359
+D2
+~
+~
+0 -1 378
+D3
+~
+~
+0 -1 357
+S
+#359
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 339
+D1
+~
+~
+0 0 440
+D2
+~
+~
+0 -1 379
+D3
+~
+~
+0 -1 358
+S
+#360
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 340
+D1
+~
+~
+0 -1 361
+D2
+~
+~
+0 -1 380
+S
+#361
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 341
+D1
+~
+~
+0 -1 362
+D2
+~
+~
+0 -1 381
+D3
+~
+~
+0 -1 360
+S
+#362
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 342
+D1
+~
+~
+0 -1 363
+D2
+~
+~
+0 -1 382
+D3
+~
+~
+0 -1 361
+S
+#363
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 343
+D1
+~
+~
+0 -1 364
+D2
+~
+~
+0 -1 383
+D3
+~
+~
+0 -1 362
+S
+#364
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 344
+D1
+~
+~
+0 -1 365
+D2
+~
+~
+0 -1 384
+D3
+~
+~
+0 -1 363
+S
+#365
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 345
+D1
+~
+~
+0 -1 366
+D2
+~
+~
+0 -1 385
+D3
+~
+~
+0 -1 364
+S
+#366
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 346
+D1
+~
+~
+0 -1 367
+D2
+~
+~
+0 -1 386
+D3
+~
+~
+0 -1 365
+S
+#367
+Room~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 347
+D1
+~
+~
+0 -1 368
+D2
+~
+~
+0 -1 387
+D3
+~
+~
+0 -1 366
+S
+#368
+A Dusty Gravel Road~
+This description is yet unfinished...
+~
+3 0 10
+D0
+~
+~
+0 -1 348
+D1
+~
+~
+0 -1 369
+D2
+~
+~
+0 -1 388
+D3
+~
+~
+0 -1 367
+S
+#369
+Acorn Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 349
+D1
+~
+~
+0 -1 370
+D2
+~
+~
+0 -1 389
+D3
+~
+~
+0 -1 368
+S
+#370
+Acorn Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 0 350
+D1
+~
+~
+0 -1 371
+D3
+~
+~
+0 -1 369
+S
+#371
+Allyton Square~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 351
+D1
+~
+~
+0 -1 372
+D2
+~
+~
+0 -1 391
+D3
+~
+~
+0 -1 370
+S
+#372
+Acorn Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 352
+D1
+~
+~
+0 -1 373
+D2
+~
+~
+0 -1 392
+D3
+~
+~
+0 -1 371
+S
+#373
+Acorn Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 353
+D1
+~
+~
+0 -1 374
+D2
+~
+~
+0 -1 393
+D3
+~
+~
+0 -1 372
+S
+#374
+Acorn Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 354
+D1
+~
+~
+0 -1 375
+D2
+~
+~
+0 -1 394
+D3
+~
+~
+0 -1 373
+S
+#375
+Acorn Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 355
+D1
+~
+~
+0 -1 376
+D2
+~
+~
+0 -1 395
+D3
+~
+~
+0 -1 374
+S
+#376
+A Stone Bridge~
+This description is yet unfinished...
+~
+3 0 13
+D0
+~
+~
+0 -1 356
+D1
+~
+~
+0 -1 377
+D2
+~
+~
+0 -1 396
+D3
+~
+~
+0 -1 375
+S
+#377
+A Stone Bridge~
+This description is yet unfinished...
+~
+3 0 13
+D0
+~
+~
+0 -1 357
+D1
+~
+~
+0 -1 378
+D2
+~
+~
+0 -1 397
+D3
+~
+~
+0 -1 376
+S
+#378
+A Stone Bridge~
+This description is yet unfinished...
+~
+3 0 13
+D0
+~
+~
+0 -1 358
+D1
+~
+~
+0 -1 379
+D2
+~
+~
+0 -1 398
+D3
+~
+~
+0 -1 377
+S
+#379
+A Stone Bridge~
+This description is yet unfinished...
+~
+3 0 13
+D0
+~
+~
+0 -1 359
+D1
+~
+~
+0 0 460
+D2
+~
+~
+0 -1 399
+D3
+~
+~
+0 -1 378
+S
+#380
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 360
+D1
+~
+~
+0 -1 381
+D2
+~
+~
+0 0 500
+S
+#381
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 361
+D1
+~
+~
+0 -1 382
+D2
+~
+~
+0 0 501
+D3
+~
+~
+0 -1 380
+S
+#382
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 362
+D1
+~
+~
+0 -1 383
+D2
+~
+~
+0 0 502
+D3
+~
+~
+0 -1 381
+S
+#383
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 363
+D1
+~
+~
+0 -1 384
+D3
+~
+~
+0 -1 382
+S
+#384
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 364
+D1
+~
+~
+0 -1 385
+D2
+~
+~
+0 0 504
+D3
+~
+~
+0 -1 383
+S
+#385
+Room~
+This description is yet unfinished...
+~
+3 0 19
+D0
+~
+~
+0 -1 365
+D1
+~
+~
+0 -1 386
+D2
+~
+~
+0 0 505
+D3
+~
+~
+0 -1 384
+S
+#386
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 366
+D1
+~
+~
+0 -1 387
+D2
+~
+~
+0 0 506
+D3
+~
+~
+0 -1 385
+S
+#387
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 367
+D1
+~
+~
+0 -1 388
+D2
+~
+~
+0 0 507
+D3
+~
+~
+0 -1 386
+S
+#388
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 368
+D2
+~
+~
+0 0 508
+D3
+~
+~
+0 -1 387
+S
+#389
+Room~
+This description is yet unfinished...
+~
+3 d 0
+D0
+~
+~
+0 -1 369
+S
+#390
+Room~
+This description is yet unfinished...
+~
+3 d 0
+D1
+~
+~
+0 0 391
+S
+#391
+Mill Road~
+This description is yet unfinished...
+~
+3 0 1
+D0
+~
+~
+0 -1 371
+D2
+~
+~
+0 0 511
+D3
+~
+~
+0 0 390
+S
+#392
+The Bearded Clam~
+This description is yet unfinished...
+~
+3 d 0
+D0
+~
+~
+0 -1 372
+S
+#393
+Room~
+This description is yet unfinished...
+~
+3 0 0
+D0
+~
+~
+0 -1 373
+S
+#394
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 374
+D1
+~
+~
+0 -1 395
+D2
+~
+~
+0 0 514
+S
+#395
+Room~
+This description is yet unfinished...
+~
+3 0 2
+D0
+~
+~
+0 -1 375
+D1
+~
+~
+0 -1 396
+D2
+~
+~
+0 0 515
+D3
+~
+~
+0 -1 394
+S
+#396
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 -1 376
+D1
+~
+~
+0 -1 397
+D2
+~
+~
+0 0 516
+D3
+~
+~
+0 -1 395
+S
+#397
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 -1 377
+D1
+~
+~
+0 -1 398
+D2
+~
+~
+0 0 517
+D3
+~
+~
+0 -1 396
+S
+#398
+The Dew River~
+This description is yet unfinished...
+~
+3 0 7
+D0
+~
+~
+0 -1 378
+D1
+~
+~
+0 -1 399
+D2
+~
+~
+0 0 518
+D3
+~
+~
+0 -1 397
+S
+#399
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+3 0 6
+D0
+~
+~
+0 -1 379
+D1
+~
+~
+0 0 480
+D2
+~
+~
+0 0 519
+D3
+~
+~
+0 -1 398
+S
+$~

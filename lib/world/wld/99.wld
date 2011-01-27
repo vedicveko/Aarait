@@ -1,0 +1,705 @@
+#9900
+Acorn Forest - Crab Load Room~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 203
+D1
+~
+~
+0 0 317
+D2
+~
+~
+0 0 613
+D3
+~
+~
+0 0 209
+S
+#9901
+Acorn Forest - Dead Fishermen~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 405
+D1
+~
+~
+0 0 650
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 410
+S
+#9902
+Acorn Forest- Dead Goblin Slayers~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 690
+D1
+~
+~
+0 0 274
+D2
+~
+~
+0 0 459
+D3
+~
+~
+0 0 830
+S
+#9903
+Acorn Forest - Dire Wolves~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 267
+D1
+~
+~
+0 0 449
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 263
+S
+#9904
+Acorn Forest - Squirrels~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 263
+D1
+~
+~
+0 0 442
+D2
+~
+~
+0 0 890
+D3
+~
+~
+0 0 210
+S
+#9905
+Acorn Forest - Dead Pig Farmers~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 317
+D1
+~
+~
+0 0 410
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 613
+S
+#9906
+Acorn Forest - Wolves~
+You are in an unfinished room.
+~
+99 0 20
+D0
+~
+~
+0 0 690
+D1
+~
+~
+0 0 880
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 263
+S
+#9907
+South East Delta - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 958
+D1
+~
+~
+0 0 841
+D2
+~
+~
+0 0 865
+D3
+~
+~
+0 0 1065
+S
+#9908
+Southwest Delta - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 793
+D1
+~
+~
+0 0 715
+D2
+~
+~
+0 0 555
+D3
+~
+~
+0 0 571
+D4
+~
+~
+0 0 707
+S
+#9909
+North Delta - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 517
+D1
+~
+~
+0 0 535
+D2
+~
+~
+0 0 539
+D3
+~
+~
+0 0 398
+D4
+~
+~
+0 0 376
+S
+#9910
+North Bridge - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 357
+D1
+~
+~
+0 0 335
+D2
+~
+~
+0 0 316
+D3
+~
+~
+0 0 193
+S
+#9911
+North River - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 117
+D1
+~
+~
+0 0 155
+D2
+~
+~
+0 0 176
+D3
+~
+~
+0 0 173
+D4
+~
+~
+0 0 133
+S
+#9912
+Lagoon - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 932
+D1
+~
+~
+0 0 9913
+D2
+~
+~
+0 0 9917
+D3
+~
+~
+0 0 1163
+S
+#9913
+Lagoon - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 1503
+D1
+~
+~
+0 0 9914
+D2
+~
+~
+0 0 9916
+D3
+~
+~
+0 0 9912
+D4
+~
+~
+0 0 951
+S
+#9914
+Lagoon - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 1526
+D1
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 9915
+D3
+~
+~
+0 0 9913
+D4
+~
+~
+0 0 1137
+S
+#9915
+Lagoon - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 9914
+D1
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 1625
+D3
+~
+~
+0 0 9916
+D4
+~
+~
+0 0 1262
+S
+#9916
+Lagoon - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 9913
+D1
+~
+~
+0 0 9915
+D2
+~
+~
+0 0 1656
+D3
+~
+~
+0 0 9917
+S
+#9917
+Lagoon - Fish~
+You are in an unfinished room.
+~
+99 0 6
+D0
+~
+~
+0 0 9912
+D1
+~
+~
+0 0 9916
+D2
+~
+~
+0 0 1235
+D3
+~
+~
+0 0 1446
+S
+#9918
+Farmers~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 100
+D1
+~
+~
+0 0 165
+D2
+~
+~
+0 0 324
+D3
+~
+~
+0 0 524
+D4
+~
+~
+0 0 9919
+S
+#9919
+Farmers~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 103
+D1
+~
+~
+0 0 301
+D2
+~
+~
+0 0 321
+D3
+~
+~
+0 0 520
+D4
+~
+~
+0 0 9920
+D5
+~
+~
+0 0 9918
+S
+#9920
+Farmers~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 161
+D1
+~
+~
+0 0 306
+D2
+~
+~
+0 0 364
+D3
+~
+~
+0 0 582
+D4
+~
+~
+0 0 9921
+D5
+~
+~
+0 0 9919
+S
+#9921
+Fishermen~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 377
+D1
+~
+~
+0 0 642
+D2
+~
+~
+0 0 534
+D3
+~
+~
+0 0 359
+D4
+~
+~
+0 0 9922
+D5
+~
+~
+0 0 9920
+S
+#9922
+Fishermen~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 598
+D1
+~
+~
+0 0 139
+D2
+~
+~
+0 0 791
+D3
+~
+~
+0 0 152
+D4
+~
+~
+0 0 9923
+D5
+~
+~
+0 0 9921
+S
+#9923
+Pig Farmers~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 371
+D1
+~
+~
+0 0 452
+D2
+~
+~
+0 0 129
+D3
+~
+~
+0 0 616
+D4
+~
+~
+0 0 9924
+D5
+~
+~
+0 0 9922
+S
+#9924
+Pig Farmers~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 222
+D1
+~
+~
+0 0 675
+D2
+~
+~
+0 0 232
+D3
+~
+~
+0 0 855
+D4
+~
+~
+0 0 9925
+D5
+~
+~
+0 0 9923
+S
+#9925
+Clergy~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 310
+D1
+~
+~
+0 0 370
+D2
+~
+~
+0 0 484
+D3
+~
+~
+0 0 602
+D4
+~
+~
+0 0 9926
+D5
+~
+~
+0 0 9924
+S
+#9926
+Millers~
+You are in an unfinished room.
+~
+99 s 0
+D0
+~
+~
+0 0 191
+D1
+~
+~
+0 0 192
+D2
+~
+~
+0 0 312
+D3
+~
+~
+0 0 372
+D5
+~
+~
+0 0 9925
+S
+#9927
+Underground - Level 1 - Fish~
+You are in an unfinished room.
+~
+99 s 6
+D0
+~
+~
+0 0 2091
+D1
+~
+~
+0 0 2081
+D2
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2097
+S
+$~

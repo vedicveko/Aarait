@@ -1,0 +1,634 @@
+/* ************************************************************************
+*   File: utils.h                                       Part of CircleMUD *
+*  Usage: header file: utility macros and prototypes of utility funcs     *
+*                                                                         *
+*  All rights reserved.  See license.doc for complete information.        *
+*                                                                         *
+*  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
+*  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
+************************************************************************ */
+
+
+/* external declarations and prototypes **********************************/
+
+extern struct weather_data weather_info;
+extern FILE *logfile;
+
+#define log			basic_mud_log
+
+/* public functions in utils.c */
+char	*str_dup(const char *source);
+int	str_cmp(const char *arg1, const char *arg2);
+int	strn_cmp(const char *arg1, const char *arg2, int n);
+void	basic_mud_log(const char *format, ...) __attribute__ ((format (printf, 1, 2)));
+int	touch(const char *path);
+void	mudlog(const char *str, int type, int level, int file);
+void	log_death_trap(struct char_data *ch);
+int	number(int from, int to);
+int	dice(int number, int size);
+void	sprintbit(bitvector_t vektor, const char *names[], char *result);
+void	sprinttype(int type, const char *names[], char *result);
+int	get_line(FILE *fl, char *buf);
+int	get_filename(char *orig_name, char *filename, int mode);
+struct time_info_data *age(struct char_data *ch);
+int	num_pc_in_room(struct room_data *room);
+void	core_dump_real(const char *, int);
+
+#define core_dump()		core_dump_real(__FILE__, __LINE__)
+
+/* random functions in random.c */
+void circle_srandom(unsigned long initial_seed);
+unsigned long circle_random(void);
+
+/* undefine MAX and MIN so that our functions are used instead */
+#ifdef MAX
+#undef MAX
+#endif
+
+#ifdef MIN
+#undef MIN
+#endif
+
+int MAX(int a, int b);
+int MIN(int a, int b);
+char *CAP(char *txt);
+
+/* in magic.c */
+bool	circle_follow(struct char_data *ch, struct char_data * victim);
+
+/* in act.informative.c */
+void	look_at_room(struct char_data *ch, int mode);
+
+/* in act.movmement.c */
+int	do_simple_move(struct char_data *ch, int dir, int following);
+int	perform_move(struct char_data *ch, int dir, int following);
+
+/* in limits.c */
+int	mana_gain(struct char_data *ch);
+int	hit_gain(struct char_data *ch);
+int	move_gain(struct char_data *ch);
+void	advance_level(struct char_data *ch);
+void	set_title(struct char_data *ch, char *title);
+void	gain_exp(struct char_data *ch, int gain);
+void	gain_exp_regardless(struct char_data *ch, int gain);
+void	check_idling(struct char_data *ch);
+void	point_update(void);
+void	update_pos(struct char_data *victim);
+
+
+/* various constants *****************************************************/
+
+/* defines for mudlog() */
+#define OFF	0
+#define BRF	1
+#define NRM	2
+#define CMP	3
+
+/* get_filename() */
+#define CRASH_FILE	0
+#define ETEXT_FILE	1
+#define ALIAS_FILE	2
+
+/* breadth-first searching */
+#define BFS_ERROR		-1
+#define BFS_ALREADY_THERE	-2
+#define BFS_NO_PATH		-3
+
+/*
+ * XXX: These constants should be configurable. See act.informative.c
+ *	and utils.c for other places to change.
+ */
+/* mud-life time */
+#define SECS_PER_MUD_HOUR	75
+#define SECS_PER_MUD_DAY	(24*SECS_PER_MUD_HOUR)
+#define SECS_PER_MUD_MONTH	(35*SECS_PER_MUD_DAY)
+#define SECS_PER_MUD_YEAR	(17*SECS_PER_MUD_MONTH)
+
+/* real-life time (remember Real Life?) */
+#define SECS_PER_REAL_MIN	60
+#define SECS_PER_REAL_HOUR	(60*SECS_PER_REAL_MIN)
+#define SECS_PER_REAL_DAY	(24*SECS_PER_REAL_HOUR)
+#define SECS_PER_REAL_YEAR	(365*SECS_PER_REAL_DAY)
+
+
+/* string utils **********************************************************/
+
+
+#define YESNO(a) ((a) ? "YES" : "NO")
+#define ONOFF(a) ((a) ? "ON" : "OFF")
+
+#define LOWER(c)   (((c)>='A'  && (c) <= 'Z') ? ((c)+('a'-'A')) : (c))
+#define UPPER(c)   (((c)>='a'  && (c) <= 'z') ? ((c)+('A'-'a')) : (c) )
+
+#define ISNEWL(ch) ((ch) == '\n' || (ch) == '\r') 
+#define IF_STR(st) ((st) ? (st) : "\0")
+
+#define AN(string) (strchr("aeiouAEIOU", *string) ? "an" : "a")
+
+
+/* memory utils **********************************************************/
+
+
+#define CREATE(result, type, number)  do {\
+	if ((number) * sizeof(type) <= 0)	\
+		log("SYSERR: Zero bytes or less requested at %s:%d.", __FILE__, __LINE__);	\
+	if (!((result) = (type *) calloc ((number), sizeof(type))))	\
+		{ perror("SYSERR: malloc failure"); abort(); } } while(0)
+
+#define RECREATE(result,type,number) do {\
+  if (!((result) = (type *) realloc ((result), sizeof(type) * (number))))\
+		{ perror("SYSERR: realloc failure"); abort(); } } while(0)
+
+/*
+ * the source previously used the same code in many places to remove an item
+ * from a list: if it's the list head, change the head, else traverse the
+ * list looking for the item before the one to be removed.  Now, we have a
+ * macro to do this.  To use, just make sure that there is a variable 'temp'
+ * declared as the same type as the list to be manipulated.  BTW, this is
+ * a great application for C++ templates but, alas, this is not C++.  Maybe
+ * CircleMUD 4.0 will be...
+ */
+#define REMOVE_FROM_LIST(item, head, next)	\
+   if ((item) == (head))		\
+      head = (item)->next;		\
+   else {				\
+      temp = head;			\
+      while (temp && (temp->next != (item))) \
+	 temp = temp->next;		\
+      if (temp)				\
+         temp->next = (item)->next;	\
+   }					\
+
+
+/* basic bitvector utils *************************************************/
+
+
+#define IS_SET(flag,bit)  ((flag) & (bit))
+#define SET_BIT(var,bit)  ((var) |= (bit))
+#define REMOVE_BIT(var,bit)  ((var) &= ~(bit))
+#define TOGGLE_BIT(var,bit) ((var) = (var) ^ (bit))
+
+/*
+ * Accessing player specific data structures on a mobile is a very bad thing
+ * to do.  Consider that changing these variables for a single mob will change
+ * it for every other single mob in the game.  If we didn't specifically check
+ * for it, 'wimpy' would be an extremely bad thing for a mob to do, as an
+ * example.  If you really couldn't care less, change this to a '#if 0'.
+ */
+#if 1
+/* Subtle bug in the '#var', but works well for now. */
+#define CHECK_PLAYER_SPECIAL(ch, var) \
+	(*(((ch)->player_specials == &dummy_mob) ? (log("SYSERR: Mob using '"#var"' at %s:%d.", __FILE__, __LINE__), &(var)) : &(var)))
+#else
+#define CHECK_PLAYER_SPECIAL(ch, var)	(var)
+#endif
+
+#define MOB_FLAGS(ch)	((ch)->char_specials.saved.act)
+#define PLR_FLAGS(ch)	((ch)->char_specials.saved.act)
+#define PRF_FLAGS(ch) CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.pref))
+#define AFF_FLAGS(ch)	((ch)->char_specials.saved.affected_by)
+#define ROOM_FLAGS(loc)	(world[(loc)].room_flags)
+#define SPELL_ROUTINES(spl)	(spell_info[spl].routines)
+
+/* See http://www.circlemud.org/~greerga/todo.009 to eliminate MOB_ISNPC. */
+#define IS_NPC(ch)	(IS_SET(MOB_FLAGS(ch), MOB_ISNPC))
+#define IS_MOB(ch)  (IS_NPC(ch) && GET_MOB_RNUM(ch) >= 0)
+
+#define MOB_FLAGGED(ch, flag) (IS_NPC(ch) && IS_SET(MOB_FLAGS(ch), (flag)))
+#define PLR_FLAGGED(ch, flag) (!IS_NPC(ch) && IS_SET(PLR_FLAGS(ch), (flag)))
+#define AFF_FLAGGED(ch, flag) (IS_SET(AFF_FLAGS(ch), (flag)))
+#define PRF_FLAGGED(ch, flag) (IS_SET(PRF_FLAGS(ch), (flag)))
+#define ROOM_FLAGGED(loc, flag) (IS_SET(ROOM_FLAGS(loc), (flag)))
+#define EXIT_FLAGGED(exit, flag) (IS_SET((exit)->exit_info, (flag)))
+#define OBJVAL_FLAGGED(obj, flag) (IS_SET(GET_OBJ_VAL((obj), 1), (flag)))
+#define OBJWEAR_FLAGGED(obj, flag) (IS_SET((obj)->obj_flags.wear_flags, (flag)))
+#define OBJ_FLAGGED(obj, flag) (IS_SET(GET_OBJ_EXTRA(obj), (flag)))
+#define HAS_SPELL_ROUTINE(spl, flag) (IS_SET(SPELL_ROUTINES(spl), (flag)))
+
+/* IS_AFFECTED for backwards compatibility */
+#define IS_AFFECTED(ch, skill) (AFF_FLAGGED((ch), (skill)))
+
+#define PLR_TOG_CHK(ch,flag) ((TOGGLE_BIT(PLR_FLAGS(ch), (flag))) & (flag))
+#define PRF_TOG_CHK(ch,flag) ((TOGGLE_BIT(PRF_FLAGS(ch), (flag))) & (flag))
+
+
+/* room utils ************************************************************/
+
+
+#define SECT(room)	(world[(room)].sector_type)
+
+#define IS_DARK(room)  ( !world[room].light && \
+                         (ROOM_FLAGGED(room, ROOM_DARK) || \
+                          ( ( SECT(room) != SECT_INSIDE && \
+                              SECT(room) != SECT_CITY ) && \
+                            (weather_info.sunlight == SUN_SET || \
+			     weather_info.sunlight == SUN_DARK)) ) )
+
+#define IS_LIGHT(room)  (!IS_DARK(room))
+
+#define VALID_RNUM(rnum)	((rnum) >= 0 && (rnum) <= top_of_world)
+#define GET_ROOM_VNUM(rnum) \
+	((room_vnum)(VALID_RNUM(rnum) ? world[(rnum)].number : NOWHERE))
+#define GET_ROOM_SPEC(room) (VALID_RNUM(room) ? world[(room)].func : NULL)
+
+/* char utils ************************************************************/
+
+
+#define IN_ROOM(ch)	((ch)->in_room)
+#define GET_WAS_IN(ch)	((ch)->was_in_room)
+#define GET_AGE(ch)     (age(ch)->year)
+
+#define GET_PC_NAME(ch)	((ch)->player.name)
+#define GET_NAME(ch)    (IS_NPC(ch) ? \
+			 (ch)->player.short_descr : GET_PC_NAME(ch))
+#define GET_TITLE(ch)   ((ch)->player.title)
+#define GET_LEVEL(ch)   ((ch)->player.level)
+#define GET_PASSWD(ch)	((ch)->player.passwd)
+#define GET_PFILEPOS(ch)((ch)->pfilepos)
+
+/*
+ * I wonder if this definition of GET_REAL_LEVEL should be the definition
+ * of GET_LEVEL?  JE
+ */
+#define GET_REAL_LEVEL(ch) \
+   (ch->desc && ch->desc->original ? GET_LEVEL(ch->desc->original) : \
+    GET_LEVEL(ch))
+
+#define GET_CLASS(ch)   ((ch)->player.chclass)
+#define GET_RACE(ch)    ((ch)->player.race)
+#define GET_HOME(ch)	((ch)->player.hometown)
+#define GET_HEIGHT(ch)	((ch)->player.height)
+#define GET_WEIGHT(ch)	((ch)->player.weight)
+#define GET_SEX(ch)	((ch)->player.sex)
+
+#define GET_STR(ch)     ((ch)->aff_abils.str)
+#define GET_ADD(ch)     ((ch)->aff_abils.str_add)
+#define GET_DEX(ch)     ((ch)->aff_abils.dex)
+#define GET_INT(ch)     ((ch)->aff_abils.intel)
+#define GET_WIS(ch)     ((ch)->aff_abils.wis)
+#define GET_CON(ch)     ((ch)->aff_abils.con)
+#define GET_CHA(ch)     ((ch)->aff_abils.cha)
+
+#define GET_EXP(ch)	  ((ch)->points.exp)
+#define GET_AC(ch)        ((ch)->points.armor)
+#define GET_HIT(ch)	  ((ch)->points.hit)
+#define GET_MAX_HIT(ch)   ((ch)->points.max_hit)
+#define GET_MOVE(ch)	  ((ch)->points.move)
+#define GET_MAX_MOVE(ch)  ((ch)->points.max_move)
+#define GET_MANA(ch)	  ((ch)->points.mana)
+#define GET_MAX_MANA(ch)  ((ch)->points.max_mana)
+#define GET_BANK_GOLD(ch) ((ch)->points.bank_gold)
+#define GET_HITROLL(ch)	  ((ch)->points.hitroll)
+#define GET_DAMROLL(ch)   ((ch)->points.damroll)
+
+#define GET_POS(ch)	  ((ch)->char_specials.position)
+#define GET_IDNUM(ch)	  ((ch)->char_specials.saved.idnum)
+#define IS_CARRYING_W(ch) ((ch)->char_specials.carry_weight)
+#define IS_CARRYING_N(ch) ((ch)->char_specials.carry_items)
+#define FIGHTING(ch)	  ((ch)->char_specials.fighting)
+#define HUNTING(ch)	  ((ch)->char_specials.hunting)
+#define GET_SAVE(ch, i)	  ((ch)->char_specials.saved.apply_saving_throw[i])
+#define GET_ALIGNMENT(ch) ((ch)->char_specials.saved.alignment)
+
+#define GET_COND(ch, i)		CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.conditions[(i)]))
+#define GET_LOADROOM(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.load_room))
+#define GET_PRACTICES(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.spells_to_learn))
+#define GET_INVIS_LEV(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.invis_level))
+#define GET_WIMP_LEV(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.wimp_level))
+#define GET_FREEZE_LEV(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.freeze_level))
+#define GET_BAD_PWS(ch)		CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.bad_pws))
+#define GET_TALK(ch, i)		CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.talks[i]))
+#define POOFIN(ch)		CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->poofin))
+#define POOFOUT(ch)		CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->poofout))
+#define GET_LAST_OLC_TARG(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->last_olc_targ))
+#define GET_LAST_OLC_MODE(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->last_olc_mode))
+#define GET_ALIASES(ch)		CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->aliases))
+#define GET_LAST_TELL(ch)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->last_tell))
+
+#define GET_SKILL(ch, i)	CHECK_PLAYER_SPECIAL((ch), ((ch)->player_specials->saved.skills[i]))
+#define SET_SKILL(ch, i, pct)	do { CHECK_PLAYER_SPECIAL((ch), (ch)->player_specials->saved.skills[i]) = pct; } while(0)
+
+#define GET_EQ(ch, i)		((ch)->equipment[i])
+
+#define GET_MOB_SPEC(ch)	(IS_MOB(ch) ? mob_index[(ch)->nr].func : NULL)
+#define GET_MOB_RNUM(mob)	((mob)->nr)
+#define GET_MOB_VNUM(mob)	(IS_MOB(mob) ? \
+				 mob_index[GET_MOB_RNUM(mob)].vnum : -1)
+
+#define GET_DEFAULT_POS(ch)	((ch)->mob_specials.default_pos)
+#define MEMORY(ch)		((ch)->mob_specials.memory)
+
+#define STRENGTH_APPLY_INDEX(ch) \
+        ( ((GET_ADD(ch)==0) || (GET_STR(ch) != 18)) ? GET_STR(ch) :\
+          (GET_ADD(ch) <= 50) ? 26 :( \
+          (GET_ADD(ch) <= 75) ? 27 :( \
+          (GET_ADD(ch) <= 90) ? 28 :( \
+          (GET_ADD(ch) <= 99) ? 29 :  30 ) ) )                   \
+        )
+
+#define CAN_CARRY_W(ch) ((2 * GET_WEIGHT(ch)) + (GET_STR(ch) * 2))
+#define CAN_CARRY_N(ch) (5 + (GET_DEX(ch) >> 1) + (GET_STR(ch) >> 1))
+#define AWAKE(ch) (GET_POS(ch) > POS_SLEEPING)
+#define CAN_SEE_IN_DARK(ch) \
+   (AFF_FLAGGED(ch, AFF_INFRAVISION) || (!IS_NPC(ch) && PRF_FLAGGED(ch, PRF_HOLYLIGHT)))
+
+#define IS_GOOD(ch)    (GET_ALIGNMENT(ch) >= 350)
+#define IS_EVIL(ch)    (GET_ALIGNMENT(ch) <= -350)
+#define IS_NEUTRAL(ch) (!IS_GOOD(ch) && !IS_EVIL(ch))
+
+
+/* These three deprecated. */
+#define WAIT_STATE(ch, cycle) do { GET_WAIT_STATE(ch) = (cycle); } while(0)
+#define CHECK_WAIT(ch)                ((ch)->wait > 0)
+#define GET_MOB_WAIT(ch)      GET_WAIT_STATE(ch)
+/* New, preferred macro. */
+#define GET_WAIT_STATE(ch)    ((ch)->wait)
+
+
+/* descriptor-based utils ************************************************/
+
+/* Hrm, not many.  We should make more. -gg 3/4/99 */
+#define STATE(d)	((d)->connected)
+
+#define IS_PLAYING(d)   (STATE(d) == CON_TEDIT || STATE(d) == CON_REDIT ||      \
+                        STATE(d) == CON_MEDIT || STATE(d) == CON_OEDIT ||       \
+                        STATE(d) == CON_ZEDIT || STATE(d) == CON_SEDIT ||       \
+                        STATE(d) == CON_PLAYING)
+
+
+/* object utils **********************************************************/
+
+
+#define GET_OBJ_LEVEL(obj)	((obj)->obj_flags.level)
+#define GET_OBJ_PERM(obj)	((obj)->obj_flags.bitvector)
+#define GET_OBJ_TYPE(obj)	((obj)->obj_flags.type_flag)
+#define GET_OBJ_COST(obj)	((obj)->obj_flags.cost)
+#define GET_OBJ_RENT(obj)	((obj)->obj_flags.cost_per_day)
+#define GET_OBJ_EXTRA(obj)	((obj)->obj_flags.extra_flags)
+#define GET_OBJ_WEAR(obj)	((obj)->obj_flags.wear_flags)
+#define GET_OBJ_VAL(obj, val)	((obj)->obj_flags.value[(val)])
+#define GET_OBJ_WEIGHT(obj)	((obj)->obj_flags.weight)
+#define GET_OBJ_TIMER(obj)	((obj)->obj_flags.timer)
+#define GET_OBJ_RNUM(obj)	((obj)->item_number)
+#define GET_OBJ_VNUM(obj)	(GET_OBJ_RNUM(obj) >= 0 ? \
+				 obj_index[GET_OBJ_RNUM(obj)].vnum : -1)
+#define IS_OBJ_STAT(obj,stat)	(IS_SET((obj)->obj_flags.extra_flags,stat))
+#define IS_CORPSE(obj)		(GET_OBJ_TYPE(obj) == ITEM_CONTAINER && \
+					GET_OBJ_VAL((obj), 3) == 1)
+
+#define GET_OBJ_SPEC(obj) ((obj)->item_number >= 0 ? \
+	(obj_index[(obj)->item_number].func) : NULL)
+
+#define CAN_WEAR(obj, part) (IS_SET((obj)->obj_flags.wear_flags, (part)))
+
+
+/* compound utilities and other macros **********************************/
+
+/*
+ * Used to compute CircleMUD version. To see if the code running is newer
+ * than 3.0pl13, you would use: #if _CIRCLEMUD > CIRCLEMUD_VERSION(3,0,13)
+ */
+#define CIRCLEMUD_VERSION(major, minor, patchlevel) \
+	(((major) << 16) + ((minor) << 8) + (patchlevel))
+
+#define HSHR(ch) (GET_SEX(ch) ? (GET_SEX(ch)==SEX_MALE ? "his":"her") :"its")
+#define HSSH(ch) (GET_SEX(ch) ? (GET_SEX(ch)==SEX_MALE ? "he" :"she") : "it")
+#define HMHR(ch) (GET_SEX(ch) ? (GET_SEX(ch)==SEX_MALE ? "him":"her") : "it")
+
+#define ANA(obj) (strchr("aeiouyAEIOUY", *(obj)->name) ? "An" : "A")
+#define SANA(obj) (strchr("aeiouyAEIOUY", *(obj)->name) ? "an" : "a")
+
+
+/* Various macros building up to CAN_SEE */
+
+#define LIGHT_OK(sub)	(!AFF_FLAGGED(sub, AFF_BLIND) && \
+   (IS_LIGHT((sub)->in_room) || AFF_FLAGGED((sub), AFF_INFRAVISION)))
+
+#define INVIS_OK(sub, obj) \
+ ((!AFF_FLAGGED((obj),AFF_INVISIBLE) || AFF_FLAGGED(sub,AFF_DETECT_INVIS)) && \
+ (!AFF_FLAGGED((obj), AFF_HIDE) || AFF_FLAGGED(sub, AFF_SENSE_LIFE)))
+
+#define MORT_CAN_SEE(sub, obj) (LIGHT_OK(sub) && INVIS_OK(sub, obj))
+
+#define IMM_CAN_SEE(sub, obj) \
+   (MORT_CAN_SEE(sub, obj) || (!IS_NPC(sub) && PRF_FLAGGED(sub, PRF_HOLYLIGHT)))
+
+#define SELF(sub, obj)  ((sub) == (obj))
+
+/* Can subject see character "obj"? */
+#define CAN_SEE(sub, obj) (SELF(sub, obj) || \
+   ((GET_REAL_LEVEL(sub) >= (IS_NPC(obj) ? 0 : GET_INVIS_LEV(obj))) && \
+   IMM_CAN_SEE(sub, obj)))
+
+/* End of CAN_SEE */
+
+
+#define INVIS_OK_OBJ(sub, obj) \
+  (!IS_OBJ_STAT((obj), ITEM_INVISIBLE) || AFF_FLAGGED((sub), AFF_DETECT_INVIS))
+
+/* Is anyone carrying this object and if so, are they visible? */
+#define CAN_SEE_OBJ_CARRIER(sub, obj) \
+  ((!obj->carried_by || CAN_SEE(sub, obj->carried_by)) &&	\
+   (!obj->worn_by || CAN_SEE(sub, obj->worn_by)))
+
+#define MORT_CAN_SEE_OBJ(sub, obj) \
+  (LIGHT_OK(sub) && INVIS_OK_OBJ(sub, obj) && CAN_SEE_OBJ_CARRIER(sub, obj))
+
+#define CAN_SEE_OBJ(sub, obj) \
+   (MORT_CAN_SEE_OBJ(sub, obj) || (!IS_NPC(sub) && PRF_FLAGGED((sub), PRF_HOLYLIGHT)))
+
+#define CAN_CARRY_OBJ(ch,obj)  \
+   (((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) <= CAN_CARRY_W(ch)) &&   \
+    ((IS_CARRYING_N(ch) + 1) <= CAN_CARRY_N(ch)))
+
+#define CAN_GET_OBJ(ch, obj)   \
+   (CAN_WEAR((obj), ITEM_WEAR_TAKE) && CAN_CARRY_OBJ((ch),(obj)) && \
+    CAN_SEE_OBJ((ch),(obj)))
+
+#define PERS(ch, vict)   (CAN_SEE(vict, ch) ? GET_NAME(ch) : "someone")
+
+#define OBJS(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? \
+	(obj)->short_description  : "something")
+
+#define OBJN(obj, vict) (CAN_SEE_OBJ((vict), (obj)) ? \
+	fname((obj)->name) : "something")
+
+
+#define EXIT(ch, door)		(world[(ch)->in_room].dir_option[door])
+#define W_EXIT(room, num)	(world[(room)].dir_option[(num)])
+#define R_EXIT(room, num)	((room)->dir_option[(num)])
+
+#define CAN_GO(ch, door) (EXIT(ch,door) && \
+			 (EXIT(ch,door)->to_room != NOWHERE) && \
+			 !IS_SET(EXIT(ch, door)->exit_info, EX_CLOSED))
+
+
+#define CLASS_ABBR(ch) (IS_NPC(ch) ? "--" : class_abbrevs[(int)GET_CLASS(ch)])
+
+#define IS_PIG_FARMER(ch)	(!IS_NPC(ch) && \
+				((GET_CLASS(ch) == CLASS_PIG_FARMER || \
+                                  PLR_FLAGGED(ch, PLR_PIG_DONE))))
+
+#define IS_GOBLIN_SLAYER(ch)    (!IS_NPC(ch) && \
+                                ((GET_CLASS(ch) == CLASS_GOBLIN_SLAYER || \
+                                  PLR_FLAGGED(ch, PLR_GOB_DONE))))
+
+#define IS_FISHERMAN(ch)        (!IS_NPC(ch) && \
+                                ((GET_CLASS(ch) == CLASS_FISHERMAN || \
+                                  PLR_FLAGGED(ch, PLR_FISH_DONE))))
+
+#define IS_JOBLESS(ch)       (!IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_JOBLESS))
+
+#define IS_NPC_RACE_OTHER(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_OTHER))
+#define IS_NPC_CHICKEN(ch)	    (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_CHICKEN))
+#define IS_NPC_AVIAN(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_AVIAN))
+#define IS_NPC_MAMMAL(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_MAMMAL))
+#define IS_NPC_SHEEP(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_SHEEP))
+#define IS_NPC_GOAT(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_GOAT))
+#define IS_NPC_INSECT(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_INSECT))
+#define IS_NPC_HIGHHUMAN(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_HIGHHUMAN))
+#define IS_NPC_SKELETON(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_SKELETON))
+#define IS_NPC_COW(ch)          (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_COW))
+#define IS_NPC_GOBLIN(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_GOBLIN))
+#define IS_NPC_PIG(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_PIG))
+#define IS_NPC_WOLF(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_WOLF))
+#define IS_NPC_CRAB(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_CRAB))
+#define IS_NPC_FISH(ch)        (IS_NPC(ch) && \
+                                (GET_RACE(ch) == RACE_NPC_FISH))
+
+#define IS_NPC_LIVESTOCK(ch)   (IS_NPC_PIG(ch) || IS_NPC_COW(ch) || \
+                                IS_NPC_GOAT(ch) || IS_NPC_SHEEP(ch) || \
+                                IS_NPC_CHICKEN(ch))
+
+
+#define IS_NPC_CLASS_OTHER(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_OTHER))                              
+#define IS_NPC_GOBLIN_SLAYER(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_GOBLIN_SLAYER))
+#define IS_NPC_FISHERMAN(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_FISHERMAN))
+#define IS_NPC_PIG_FARMER(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_PIG_FARMER))
+#define IS_NPC_FIGHTER(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_FIGHTER))
+#define IS_NPC_MAGE(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_MAGE))
+#define IS_NPC_CLERIC(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_CLERIC))
+#define IS_NPC_THIEF(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_THIEF))
+#define IS_NPC_MERCHANT(ch) (IS_NPC(ch) && \
+                                (GET_CLASS(ch) == CLASS_NPC_MERCHANT))
+
+
+
+
+#define OUTSIDE(ch) (!ROOM_FLAGGED((ch)->in_room, ROOM_INDOORS))
+
+
+/* OS compatibility ******************************************************/
+
+
+/* there could be some strange OS which doesn't have NULL... */
+#ifndef NULL
+#define NULL (void *)0
+#endif
+
+#if !defined(FALSE)
+#define FALSE 0
+#endif
+
+#if !defined(TRUE)
+#define TRUE  (!FALSE)
+#endif
+
+/* defines for fseek */
+#ifndef SEEK_SET
+#define SEEK_SET	0
+#define SEEK_CUR	1
+#define SEEK_END	2
+#endif
+
+/*
+ * NOCRYPT can be defined by an implementor manually in sysdep.h.
+ * CIRCLE_CRYPT is a variable that the 'configure' script
+ * automatically sets when it determines whether or not the system is
+ * capable of encrypting.
+ */
+#if defined(NOCRYPT) || !defined(CIRCLE_CRYPT)
+#define CRYPT(a,b) (a)
+#else
+#define CRYPT(a,b) ((char *) crypt((a),(b)))
+#endif
+
+void send_to_zone_outdoor(int zone_rnum, char *messg);
+void send_to_zone_indoor(int zone_rnum, char *messg);
+#define GET_HOUSE(ch)    ((ch)->player_specials->saved.noble_house)
+#define GET_MOB_HUNGER(ch)	((ch)->mob_specials.mob_hunger)
+#define GET_MOB_WEIGHT(ch)      ((ch)->mob_specials.body_weight)
+#define GET_RANK(ch)    ((ch)->player_specials->saved.rank)
+void improve_stat(struct char_data *ch, int stat);
+void improve_skill(struct char_data *ch, int skill, int bonus);
+void improve_hp(struct char_data *ch);
+#define GET_REELIN(ch) ((ch)->char_specials.reel_in)
+#define GET_FISHON(ch) ((ch)->char_specials.fish_on)
+#define GET_SKILL_WAIT(ch)             ((ch)->mob_specials.skill_wait)
+#define GET_FSM_STATE(ch)              ((ch)->mob_specials.fsm_state)
+#define GET_MOB_SIZE(ch)               ((ch)->mob_specials.size)
+#define LOOKING_FOR(ch)                ((ch)->mob_specials.looking_for)
+#define MODE_JOB_DONE        1
+#define MODE_MONEY_PIG       2
+#define MODE_LUNKER          3
+#define MODE_LOTSA_KILLS     4
+#define GET_OBJ_CSLOTS(obj)     ((obj)->obj_flags.curr_slots)
+#define GET_OBJ_TSLOTS(obj)     ((obj)->obj_flags.total_slots)
+void add_to_webpage(struct char_data *ch, int mode);
+void damage_objs_exact(struct char_data *ch, int j);
+void damage_objs(struct char_data *ch);
+void mobaction(struct char_data *ch, char *string, char *action);
+void mobsay(struct char_data *ch, const char *msg);
+int warn_newbie(struct char_data *ch, struct char_data *vict); 
+#define IS_DAY              (weather_info.sunlight == SUN_RISE || \
+                             weather_info.sunlight == SUN_LIGHT)
+#define IS_NIGHT            (weather_info.sunlight == SUN_SET || \
+                             weather_info.sunlight == SUN_DARK)
+#define IS_QUESTOR(ch)     (PLR_FLAGGED(ch, PLR_QUESTOR))
+void search_replace(char *string, const char *find, const char *replace);
+#define URANGE(a, b, c)          ((b) < (a) ? (a) : ((b) > (c) ? (c) : (b)))
+
+#define GET_MONEY(ch, type)   ((ch)->points.money[type])
+#define GET_GOLD(ch)          (GET_MONEY(ch, GOLD_COINS))
+#define GET_COPPER(ch)        (GET_MONEY(ch, COPPER_COINS))
+#define GET_SILVER(ch)        (GET_MONEY(ch, SILVER_COINS))
+#define GET_PLATINUM(ch)      (GET_MONEY(ch, PLAT_COINS))
+#define RM_CHUM(rm)           ((int)world[rm].chum)
+#define GET_GOBLINS_SLAYED(ch)    ((ch)->player_specials->saved.goblins_slayed)
+#define GET_PIGS_RAISED(ch)       ((ch)->player_specials->saved.pigs_raised)
+#define GET_POINTS(ch)       ((ch)->player_specials->saved.jobpoints)
+void improve_points(struct char_data *ch, int bonus);
+#define GET_CURR_TIP(ch)       ((ch)->player_specials->saved.curr_tip)
+#define GET_POUNDS_OF_PIG(ch)       ((ch)->player_specials->saved.pounds_of_pig)
+#define GET_PIG_WEIGHT(ch)       ((ch)->player_specials->saved.pig_weight)
+char *linewrap(char *str, int max);
+
+#define GET_QUEST(ch)   ((ch)->current_quest)
+#define GET_QUEST_TYPE(ch) (aquest_table[real_quest((int)GET_QUEST((ch)))].type)
+#define GET_NUM_QUESTS(ch)      ((ch)->num_completed_quests)
+#define GET_JOB_SPARE(ch)      ((ch)->player_specials->saved.job_spare)
+#define JOB_COMPLETE(ch) ((ch)->char_specials.completed)
+#define JOB_OBJECT(ch) ((ch)->char_specials.job_object) 

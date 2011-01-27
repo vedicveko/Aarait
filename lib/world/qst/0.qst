@@ -1,0 +1,13 @@
+#1
+sample quest~
+Find an elemental, wherever it may be.~
+   In this quest, it is your goal to find an elemental.  What does this mean?
+Well its that nifty ole test entry so load mob 20 and go to it, and it should
+work.  (ps-this is testing long descs)
+~
+Ending, thats it.    
+~
+2 1 1 100 101 -1
+0 0 0 0 0
+S
+$~

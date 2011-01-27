@@ -1,0 +1,60 @@
+CircleMUD v3.0 Shop File~
+#1846~
+-1
+1.00
+0.75
+24
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1810
+0
+1846
+-1
+0
+28
+0
+0
+#1872~
+146
+147
+148
+149
+150
+143
+1369
+1368
+1312
+1313
+1314
+1360
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s This is a store not a flea market!~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1812
+0
+1872
+-1
+0
+28
+0
+0
+$~
+

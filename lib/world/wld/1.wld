@@ -1,0 +1,2049 @@
+#100
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D1
+~
+~
+0 -1 101
+D2
+~
+~
+0 -1 120
+S
+#101
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D1
+~
+~
+0 -1 102
+D2
+~
+~
+0 0 121
+D3
+~
+~
+0 -1 100
+S
+#102
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D1
+~
+~
+0 -1 103
+D2
+~
+~
+0 -1 122
+D3
+~
+~
+0 -1 101
+S
+#103
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D1
+~
+~
+0 -1 104
+D2
+~
+~
+0 -1 123
+D3
+~
+~
+0 -1 102
+S
+#104
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D1
+~
+~
+0 -1 105
+D2
+~
+~
+0 -1 124
+D3
+~
+~
+0 -1 103
+S
+#105
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 106
+D2
+~
+~
+0 -1 125
+D3
+~
+~
+0 -1 104
+S
+#106
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 107
+D2
+~
+~
+0 -1 126
+D3
+~
+~
+0 -1 105
+S
+#107
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 108
+D2
+~
+~
+0 -1 127
+D3
+~
+~
+0 -1 106
+S
+#108
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 109
+D2
+~
+~
+0 -1 128
+D3
+~
+~
+0 -1 107
+S
+#109
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 110
+D2
+~
+~
+0 -1 129
+D3
+~
+~
+0 -1 108
+S
+#110
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 111
+D2
+~
+~
+0 -1 130
+D3
+~
+~
+0 -1 109
+S
+#111
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 112
+D2
+~
+~
+0 -1 131
+D3
+~
+~
+0 -1 110
+S
+#112
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 113
+D2
+~
+~
+0 -1 132
+D3
+~
+~
+0 -1 111
+S
+#113
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 114
+D2
+~
+~
+0 -1 133
+D3
+~
+~
+0 -1 112
+S
+#114
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D1
+~
+~
+0 -1 115
+D2
+~
+~
+0 -1 134
+D3
+~
+~
+0 -1 113
+S
+#115
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D1
+~
+~
+0 -1 116
+D2
+~
+~
+0 -1 135
+D3
+~
+~
+0 -1 114
+S
+#116
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D1
+~
+~
+0 -1 117
+D2
+~
+~
+0 -1 136
+D3
+~
+~
+0 -1 115
+S
+#117
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D1
+~
+~
+0 -1 118
+D2
+~
+~
+0 -1 137
+D3
+~
+~
+0 -1 116
+S
+#118
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D1
+~
+~
+0 -1 119
+D2
+~
+~
+0 -1 138
+D3
+~
+~
+0 -1 117
+S
+#119
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D1
+~
+~
+0 0 200
+D2
+~
+~
+0 -1 139
+D3
+~
+~
+0 -1 118
+S
+#120
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 100
+D1
+~
+~
+0 -1 121
+D2
+~
+~
+0 -1 140
+S
+#121
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 0 101
+D1
+~
+~
+0 -1 122
+D2
+~
+~
+0 -1 141
+D3
+~
+~
+0 -1 120
+S
+#122
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 102
+D1
+~
+~
+0 -1 123
+D2
+~
+~
+0 -1 142
+D3
+~
+~
+0 -1 121
+S
+#123
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 103
+D1
+~
+~
+0 -1 124
+D2
+~
+~
+0 -1 143
+D3
+~
+~
+0 -1 122
+S
+#124
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 104
+D1
+~
+~
+0 -1 125
+D2
+~
+~
+0 -1 144
+D3
+~
+~
+0 -1 123
+S
+#125
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 105
+D1
+~
+~
+0 -1 126
+D2
+~
+~
+0 -1 145
+D3
+~
+~
+0 -1 124
+S
+#126
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 106
+D1
+~
+~
+0 -1 127
+D2
+~
+~
+0 -1 146
+D3
+~
+~
+0 -1 125
+S
+#127
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 107
+D1
+~
+~
+0 -1 128
+D2
+~
+~
+0 -1 147
+D3
+~
+~
+0 -1 126
+S
+#128
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 108
+D1
+~
+~
+0 -1 129
+D2
+~
+~
+0 -1 148
+D3
+~
+~
+0 -1 127
+S
+#129
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 109
+D1
+~
+~
+0 -1 130
+D2
+~
+~
+0 -1 149
+D3
+~
+~
+0 -1 128
+S
+#130
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 110
+D1
+~
+~
+0 -1 131
+D2
+~
+~
+0 -1 150
+D3
+~
+~
+0 -1 129
+S
+#131
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 111
+D1
+~
+~
+0 -1 132
+D2
+~
+~
+0 -1 151
+D3
+~
+~
+0 -1 130
+S
+#132
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 112
+D1
+~
+~
+0 -1 133
+D2
+~
+~
+0 -1 152
+D3
+~
+~
+0 -1 131
+S
+#133
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 113
+D1
+~
+~
+0 -1 134
+D2
+~
+~
+0 -1 153
+D3
+~
+~
+0 -1 132
+S
+#134
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 114
+D1
+~
+~
+0 -1 135
+D2
+~
+~
+0 -1 154
+D3
+~
+~
+0 -1 133
+S
+#135
+The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 115
+D1
+~
+~
+0 -1 136
+D2
+~
+~
+0 -1 155
+D3
+~
+~
+0 -1 134
+S
+#136
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 116
+D1
+~
+~
+0 -1 137
+D2
+~
+~
+0 -1 156
+D3
+~
+~
+0 -1 135
+S
+#137
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 117
+D1
+~
+~
+0 -1 138
+D2
+~
+~
+0 -1 157
+D3
+~
+~
+0 -1 136
+S
+#138
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 118
+D1
+~
+~
+0 -1 139
+D2
+~
+~
+0 -1 158
+D3
+~
+~
+0 -1 137
+S
+#139
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 119
+D1
+~
+~
+0 0 220
+D2
+~
+~
+0 -1 159
+D3
+~
+~
+0 -1 138
+S
+#140
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 120
+D1
+~
+~
+0 -1 141
+D2
+~
+~
+0 -1 160
+S
+#141
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 121
+D1
+~
+~
+0 -1 142
+D2
+~
+~
+0 -1 161
+D3
+~
+~
+0 -1 140
+S
+#142
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 122
+D1
+~
+~
+0 -1 143
+D2
+~
+~
+0 -1 162
+D3
+~
+~
+0 -1 141
+S
+#143
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 123
+D1
+~
+~
+0 -1 144
+D2
+~
+~
+0 -1 163
+D3
+~
+~
+0 -1 142
+S
+#144
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 124
+D1
+~
+~
+0 -1 145
+D2
+~
+~
+0 -1 164
+D3
+~
+~
+0 -1 143
+S
+#145
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 125
+D1
+~
+~
+0 -1 146
+D2
+~
+~
+0 -1 165
+D3
+~
+~
+0 -1 144
+S
+#146
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 126
+D1
+~
+~
+0 -1 147
+D2
+~
+~
+0 -1 166
+D3
+~
+~
+0 -1 145
+S
+#147
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 127
+D1
+~
+~
+0 -1 148
+D2
+~
+~
+0 -1 167
+D3
+~
+~
+0 -1 146
+S
+#148
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 128
+D1
+~
+~
+0 -1 149
+D2
+~
+~
+0 -1 168
+D3
+~
+~
+0 -1 147
+S
+#149
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 129
+D1
+~
+~
+0 -1 150
+D2
+~
+~
+0 -1 169
+D3
+~
+~
+0 -1 148
+S
+#150
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 130
+D1
+~
+~
+0 -1 151
+D2
+~
+~
+0 -1 170
+D3
+~
+~
+0 -1 149
+S
+#151
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 131
+D1
+~
+~
+0 -1 152
+D2
+~
+~
+0 -1 171
+D3
+~
+~
+0 -1 150
+S
+#152
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 132
+D1
+~
+~
+0 -1 153
+D2
+~
+~
+0 -1 172
+D3
+~
+~
+0 -1 151
+S
+#153
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 133
+D1
+~
+~
+0 -1 154
+D2
+~
+~
+0 -1 173
+D3
+~
+~
+0 -1 152
+S
+#154
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 134
+D1
+~
+~
+0 -1 155
+D2
+~
+~
+0 -1 174
+D3
+~
+~
+0 -1 153
+S
+#155
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 135
+D1
+~
+~
+0 -1 156
+D2
+~
+~
+0 -1 175
+D3
+~
+~
+0 -1 154
+S
+#156
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 136
+D1
+~
+~
+0 -1 157
+D2
+~
+~
+0 -1 176
+D3
+~
+~
+0 -1 155
+S
+#157
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 137
+D1
+~
+~
+0 -1 158
+D2
+~
+~
+0 -1 177
+D3
+~
+~
+0 -1 156
+S
+#158
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 138
+D1
+~
+~
+0 -1 159
+D2
+~
+~
+0 -1 178
+D3
+~
+~
+0 -1 157
+S
+#159
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 139
+D1
+~
+~
+0 0 240
+D2
+~
+~
+0 -1 179
+D3
+~
+~
+0 -1 158
+S
+#160
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 140
+D1
+~
+~
+0 -1 161
+D2
+~
+~
+0 -1 180
+S
+#161
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 141
+D1
+~
+~
+0 -1 162
+D2
+~
+~
+0 -1 181
+D3
+~
+~
+0 -1 160
+S
+#162
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 142
+D1
+~
+~
+0 -1 163
+D2
+~
+~
+0 -1 182
+D3
+~
+~
+0 -1 161
+S
+#163
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 143
+D1
+~
+~
+0 -1 164
+D2
+~
+door~
+1 -1 183
+D3
+~
+~
+0 -1 162
+S
+#164
+Room~
+This description is yet unfinished...
+~
+1 0 19
+D0
+~
+~
+0 -1 144
+D1
+~
+~
+0 -1 165
+D2
+~
+~
+0 -1 184
+D3
+~
+~
+0 -1 163
+S
+#165
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 145
+D1
+~
+~
+0 -1 166
+D2
+~
+~
+0 -1 185
+D3
+~
+~
+0 -1 164
+S
+#166
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 146
+D1
+~
+~
+0 -1 167
+D2
+~
+~
+0 -1 186
+D3
+~
+~
+0 -1 165
+S
+#167
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 147
+D1
+~
+~
+0 -1 168
+D2
+~
+~
+0 -1 187
+D3
+~
+~
+0 -1 166
+S
+#168
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 148
+D1
+~
+~
+0 -1 169
+D2
+~
+~
+0 -1 188
+D3
+~
+~
+0 -1 167
+S
+#169
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 149
+D1
+~
+~
+0 -1 170
+D2
+~
+~
+0 -1 189
+D3
+~
+~
+0 -1 168
+S
+#170
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 150
+D1
+~
+~
+0 -1 171
+D2
+~
+~
+0 -1 190
+D3
+~
+~
+0 -1 169
+S
+#171
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 151
+D1
+~
+~
+0 -1 172
+D3
+~
+~
+0 -1 170
+S
+#172
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 152
+D1
+~
+~
+0 -1 173
+D3
+~
+~
+0 -1 171
+S
+#173
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 153
+D1
+~
+~
+0 -1 174
+D2
+~
+~
+0 -1 193
+D3
+~
+~
+0 -1 172
+S
+#174
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 154
+D1
+~
+~
+0 -1 175
+D2
+~
+~
+0 -1 194
+D3
+~
+~
+0 -1 173
+S
+#175
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 155
+D1
+~
+~
+0 -1 176
+D2
+~
+~
+0 -1 195
+D3
+~
+~
+0 -1 174
+S
+#176
+The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 156
+D1
+~
+~
+0 -1 177
+D2
+~
+~
+0 -1 196
+D3
+~
+~
+0 -1 175
+S
+#177
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 157
+D1
+~
+~
+0 -1 178
+D2
+~
+~
+0 -1 197
+D3
+~
+~
+0 -1 176
+S
+#178
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 158
+D1
+~
+~
+0 -1 179
+D2
+~
+~
+0 -1 198
+D3
+~
+~
+0 -1 177
+S
+#179
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 159
+D1
+~
+~
+0 0 260
+D2
+~
+~
+0 -1 199
+D3
+~
+~
+0 -1 178
+S
+#180
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 160
+D1
+~
+~
+0 -1 181
+D2
+~
+~
+0 0 300
+S
+#181
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 161
+D1
+~
+~
+0 -1 182
+D2
+~
+~
+0 0 301
+D3
+~
+~
+0 -1 180
+S
+#182
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 162
+D2
+~
+~
+0 0 302
+D3
+~
+~
+0 -1 181
+S
+#183
+Room~
+This description is yet unfinished...
+~
+1 d 0
+D0
+~
+door~
+1 -1 163
+S
+#184
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 164
+D1
+~
+~
+0 -1 185
+D2
+~
+~
+0 0 304
+S
+#185
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 165
+D1
+~
+~
+0 -1 186
+D2
+~
+~
+0 0 305
+D3
+~
+~
+0 -1 184
+S
+#186
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 166
+D1
+~
+~
+0 -1 187
+D2
+~
+~
+0 0 306
+D3
+~
+~
+0 -1 185
+S
+#187
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 167
+D1
+~
+~
+0 -1 188
+D2
+~
+~
+0 0 307
+D3
+~
+~
+0 -1 186
+S
+#188
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 168
+D1
+~
+~
+0 -1 189
+D2
+~
+~
+0 0 308
+D3
+~
+~
+0 -1 187
+S
+#189
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 169
+D1
+~
+~
+0 -1 190
+D2
+~
+~
+0 0 309
+D3
+~
+~
+0 -1 188
+S
+#190
+Room~
+This description is yet unfinished...
+~
+1 0 2
+D0
+~
+~
+0 -1 170
+D2
+~
+~
+0 0 310
+D3
+~
+~
+0 -1 189
+S
+#191
+Allyton Mill - First Floor~
+This description is yet unfinished...
+~
+1 d 0
+D1
+~
+~
+0 -1 192
+D2
+~
+~
+0 0 311
+S
+#192
+Allyton Mill - Grinding Room~
+This description is yet unfinished...
+~
+1 d 0
+D2
+~
+~
+0 0 312
+D3
+~
+~
+0 -1 191
+S
+#193
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 173
+D1
+~
+~
+0 -1 194
+D2
+~
+~
+0 0 313
+S
+#194
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 174
+D1
+~
+~
+0 -1 195
+D2
+~
+~
+0 0 314
+D3
+~
+~
+0 -1 193
+S
+#195
+The Dew River~
+This description is yet unfinished...
+~
+1 0 7
+D0
+~
+~
+0 -1 175
+D1
+~
+~
+0 -1 196
+D2
+~
+~
+0 0 315
+D3
+~
+~
+0 -1 194
+S
+#196
+On The Shore of The Dew River~
+This description is yet unfinished...
+~
+1 0 6
+D0
+~
+~
+0 -1 176
+D1
+~
+~
+0 -1 197
+D2
+~
+~
+0 0 316
+D3
+~
+~
+0 -1 195
+S
+#197
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 177
+D1
+~
+~
+0 -1 198
+D2
+~
+~
+0 0 317
+D3
+~
+~
+0 -1 196
+S
+#198
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 178
+D1
+~
+~
+0 -1 199
+D2
+~
+~
+0 0 318
+D3
+~
+~
+0 -1 197
+S
+#199
+Room~
+This description is yet unfinished...
+~
+1 0 20
+D0
+~
+~
+0 -1 179
+D1
+~
+~
+0 0 280
+D2
+~
+~
+0 0 319
+D3
+~
+~
+0 -1 198
+S
+$~

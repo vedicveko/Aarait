@@ -1,0 +1,820 @@
+#500
+char fish~
+a char fish~
+A char fish swims around.
+~
+It looks unfinished.
+~
+8 66 0 E
+0 20 1 13d0+13 1d1+4
+0 0
+8 8 0
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 14
+Weight: 6
+Size: 0
+E
+#501
+three-spined stickleback~
+a three-spined stickleback~
+a three-spined stickleback swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 19 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 5
+Size: 0
+E
+#502
+rudd~
+a rudd~
+a rudd swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 4
+Size: 0
+E
+#503
+ayu~
+an ayu~
+An ayu swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#505
+cutthroat trout~
+a cutthroat trout~
+A cutthroat trout swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 4
+Size: 0
+E
+#506
+gila trout~
+a gila trout~
+A gila trout swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 11
+Size: 0
+E
+#507
+brown trout~
+a brown trout~
+A brown trout swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 20
+Size: 0
+E
+#508
+darter~
+a darter~
+A darter swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 17 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#509
+roughskin sculpin~
+a roughskin sculpin~
+A roughskin sculpin swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 4
+Size: 0
+E
+#510
+sculpin~
+a sculpin~
+A sculpin swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 7
+Size: 0
+E
+#511
+shortnose gar~
+a shortnose gar~
+A shortnose gar swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#512
+bowfin~
+a bowfin~
+A bowfin swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#513
+shad~
+a shad~
+A shad swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#514
+brook trout~
+a brook trout~
+A brook trout swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+5 20 9 1d1+15 1d5+13
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 7
+Size: 0
+E
+#515
+redfin pickerel~
+a redfin pickerel~
+A redfin pickerel swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#516
+muskellunge~
+a muskellunge~
+A muskellunge swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 30
+Size: 0
+E
+#517
+chain pickerel~
+a chain pickerel~
+A chain pickerel swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 5
+Size: 0
+E
+#518
+white catfish~
+a white catfish~
+A white catfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 20 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#519
+flathead catfish~
+a flathead catfish~
+A flathead catfish is swiming here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 20 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 50
+Size: 0
+E
+#520
+white bass~
+a white bass~
+A white bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#521
+yellow bass~
+a yellow bass~
+A yellow bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#522
+striped bass~
+a striped bass~
+A striped bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#523
+shadow bass~
+a shadow bass~
+A shadow bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#524
+rock bass~
+a rock bass~
+A rock bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#525
+flier~
+a flier~
+A flier swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#526
+redbreast sunfish~
+a redbreast sunfish~
+A redbreast sunfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 20 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#527
+warmouth~
+a warmouth~
+A warmouth swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#528
+longear sunfish~
+a longear sunfish~
+A longear sunfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#529
+redear sunfish~
+a redear sunfish~
+A redear sunfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#530
+spotted sunfish~
+a spotted sunfish~
+A spotted sunfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#531
+redeye bass~
+a redeye bass~
+A redeye bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#532
+smallmouth bass~
+a smallmouth bass~
+A smallmouth bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 5
+Size: 0
+E
+#533
+spotted bass~
+a spotted bass~
+A spotted bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 4
+Size: 0
+E
+#534
+largemouth bass~
+a largemouth bass~
+A largemouth bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+5 20 9 1d1+15 1d5+13
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#535
+yellow perch~
+a yellow perch~
+A yellow perch swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#536
+sauger~
+a sauger~
+A sauger swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#537
+walleye~
+a walleye~
+A walleye swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 8
+Size: 0
+E
+#538
+white crappie~
+a white crappie~
+A white crappie swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#550
+small brown rat~
+a small brown rat~
+A small brown rat scurries towards a wall.
+~
+It looks unfinished.
+~
+16777288 1024 0 E
+0 20 1 3d9+1 1d1+0
+0 0
+8 8 0
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 1
+Size: 4
+E
+$

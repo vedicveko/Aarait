@@ -1,0 +1,88 @@
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+10 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+BareHandAttack: 7
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+10 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 E
+1 0 0 1d1+1 1d1+1
+0 0
+8 8 0
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+E
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 33960 0 E
+30 0 -10 1d1+665 10d15+20
+0 500000
+8 8 0
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Class: 3
+Race: 3
+E
+$

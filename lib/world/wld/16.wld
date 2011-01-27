@@ -1,0 +1,2101 @@
+#1600
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 0 1480
+D1
+~
+~
+0 -1 1601
+D2
+~
+~
+0 -1 1620
+D3
+~
+~
+0 0 1519
+S
+#1601
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 0 1481
+D1
+~
+~
+0 -1 1602
+D2
+~
+~
+0 -1 1621
+D3
+~
+~
+0 -1 1600
+S
+#1602
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 0 1482
+D1
+~
+~
+0 -1 1603
+D2
+~
+~
+0 -1 1622
+D3
+~
+~
+0 -1 1601
+S
+#1603
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1483
+D1
+~
+~
+0 -1 1604
+D2
+~
+~
+0 -1 1623
+D3
+~
+~
+0 -1 1602
+S
+#1604
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1484
+D1
+~
+~
+0 -1 1605
+D2
+~
+~
+0 -1 1624
+D3
+~
+~
+0 -1 1603
+S
+#1605
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1485
+D1
+~
+~
+0 -1 1606
+D2
+~
+~
+0 -1 1625
+D3
+~
+~
+0 -1 1604
+S
+#1606
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1486
+D1
+~
+~
+0 -1 1607
+D2
+~
+~
+0 -1 1626
+D3
+~
+~
+0 -1 1605
+S
+#1607
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1487
+D1
+~
+~
+0 -1 1608
+D2
+~
+~
+0 -1 1627
+D3
+~
+~
+0 -1 1606
+S
+#1608
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1488
+D1
+~
+~
+0 -1 1609
+D2
+~
+~
+0 -1 1628
+D3
+~
+~
+0 -1 1607
+S
+#1609
+Room~
+This description is yet unfinished...
+~
+16 0 4
+D0
+~
+~
+0 0 1489
+D1
+~
+~
+0 -1 1610
+D2
+~
+~
+0 -1 1629
+D3
+~
+~
+0 -1 1608
+S
+#1610
+Room~
+This description is yet unfinished...
+~
+16 0 4
+D0
+~
+~
+0 0 1490
+D1
+~
+~
+0 -1 1611
+D2
+~
+~
+0 -1 1630
+D3
+~
+~
+0 -1 1609
+S
+#1611
+Room~
+This description is yet unfinished...
+~
+16 0 4
+D0
+~
+~
+0 0 1491
+D1
+~
+~
+0 -1 1612
+D2
+~
+~
+0 -1 1631
+D3
+~
+~
+0 -1 1610
+S
+#1612
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 0 1492
+D1
+~
+~
+0 -1 1613
+D2
+~
+~
+0 -1 1632
+D3
+~
+~
+0 -1 1611
+S
+#1613
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 0 1493
+D1
+~
+~
+0 -1 1614
+D2
+~
+~
+0 -1 1633
+D3
+~
+~
+0 -1 1612
+S
+#1614
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 0 1494
+D1
+~
+~
+0 -1 1615
+D2
+~
+~
+0 -1 1634
+D3
+~
+~
+0 -1 1613
+S
+#1615
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 0 1495
+D1
+~
+~
+0 -1 1616
+D2
+~
+~
+0 -1 1635
+D3
+~
+~
+0 -1 1614
+S
+#1616
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 0 1496
+D1
+~
+~
+0 -1 1617
+D2
+~
+~
+0 -1 1636
+D3
+~
+~
+0 -1 1615
+S
+#1617
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 0 1497
+D1
+~
+~
+0 -1 1618
+D2
+~
+~
+0 -1 1637
+D3
+~
+~
+0 -1 1616
+S
+#1618
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 0 1498
+D1
+~
+~
+0 -1 1619
+D2
+~
+~
+0 -1 1638
+D3
+~
+~
+0 -1 1617
+S
+#1619
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 0 1499
+D2
+~
+~
+0 -1 1639
+D3
+~
+~
+0 -1 1618
+S
+#1620
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1600
+D1
+~
+~
+0 -1 1621
+D2
+~
+~
+0 -1 1640
+D3
+~
+~
+0 0 1539
+S
+#1621
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1601
+D1
+~
+~
+0 -1 1622
+D2
+~
+~
+0 -1 1641
+D3
+~
+~
+0 -1 1620
+S
+#1622
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1602
+D1
+~
+~
+0 -1 1623
+D2
+~
+~
+0 -1 1642
+D3
+~
+~
+0 -1 1621
+S
+#1623
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1603
+D1
+~
+~
+0 -1 1624
+D2
+~
+~
+0 -1 1643
+D3
+~
+~
+0 -1 1622
+S
+#1624
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1604
+D1
+~
+~
+0 -1 1625
+D2
+~
+~
+0 -1 1644
+D3
+~
+~
+0 -1 1623
+S
+#1625
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1605
+D1
+~
+~
+0 -1 1626
+D2
+~
+~
+0 -1 1645
+D3
+~
+~
+0 -1 1624
+S
+#1626
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 -1 1606
+D1
+~
+~
+0 -1 1627
+D2
+~
+~
+0 -1 1646
+D3
+~
+~
+0 -1 1625
+S
+#1627
+Room~
+This description is yet unfinished...
+~
+16 0 2
+D0
+~
+~
+0 -1 1607
+D1
+~
+~
+0 -1 1628
+D2
+~
+~
+0 -1 1647
+D3
+~
+~
+0 -1 1626
+S
+#1628
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1608
+D1
+~
+~
+0 -1 1629
+D2
+~
+~
+0 -1 1648
+D3
+~
+~
+0 -1 1627
+S
+#1629
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1609
+D1
+~
+~
+0 -1 1630
+D2
+~
+~
+0 -1 1649
+D3
+~
+~
+0 -1 1628
+S
+#1630
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1610
+D1
+~
+~
+0 -1 1631
+D2
+~
+~
+0 -1 1650
+D3
+~
+~
+0 -1 1629
+S
+#1631
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1611
+D1
+~
+~
+0 -1 1632
+D2
+~
+~
+0 -1 1651
+D3
+~
+~
+0 -1 1630
+S
+#1632
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1612
+D1
+~
+~
+0 -1 1633
+D2
+~
+~
+0 -1 1652
+D3
+~
+~
+0 -1 1631
+S
+#1633
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1613
+D1
+~
+~
+0 -1 1634
+D2
+~
+~
+0 -1 1653
+D3
+~
+~
+0 -1 1632
+S
+#1634
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1614
+D1
+~
+~
+0 -1 1635
+D2
+~
+~
+0 -1 1654
+D3
+~
+~
+0 -1 1633
+S
+#1635
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1615
+D1
+~
+~
+0 -1 1636
+D2
+~
+~
+0 -1 1655
+D3
+~
+~
+0 -1 1634
+S
+#1636
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1616
+D1
+~
+~
+0 -1 1637
+D2
+~
+~
+0 -1 1656
+D3
+~
+~
+0 -1 1635
+S
+#1637
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1617
+D1
+~
+~
+0 -1 1638
+D2
+~
+~
+0 -1 1657
+D3
+~
+~
+0 -1 1636
+S
+#1638
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1618
+D1
+~
+~
+0 -1 1639
+D2
+~
+~
+0 -1 1658
+D3
+~
+~
+0 -1 1637
+S
+#1639
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1619
+D2
+~
+~
+0 -1 1659
+D3
+~
+~
+0 -1 1638
+S
+#1640
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1620
+D1
+~
+~
+0 -1 1641
+D2
+~
+~
+0 -1 1660
+D3
+~
+~
+0 0 1559
+S
+#1641
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1621
+D1
+~
+~
+0 -1 1642
+D2
+~
+~
+0 -1 1661
+D3
+~
+~
+0 -1 1640
+S
+#1642
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1622
+D1
+~
+~
+0 -1 1643
+D2
+~
+~
+0 -1 1662
+D3
+~
+~
+0 -1 1641
+S
+#1643
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1623
+D1
+~
+~
+0 -1 1644
+D2
+~
+~
+0 -1 1663
+D3
+~
+~
+0 -1 1642
+S
+#1644
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1624
+D1
+~
+~
+0 -1 1645
+D2
+~
+~
+0 -1 1664
+D3
+~
+~
+0 -1 1643
+S
+#1645
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1625
+D1
+~
+~
+0 -1 1646
+D2
+~
+~
+0 -1 1665
+D3
+~
+~
+0 -1 1644
+S
+#1646
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1626
+D1
+~
+~
+0 -1 1647
+D2
+~
+~
+0 -1 1666
+D3
+~
+~
+0 -1 1645
+S
+#1647
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1627
+D1
+~
+~
+0 -1 1648
+D2
+~
+~
+0 -1 1667
+D3
+~
+~
+0 -1 1646
+S
+#1648
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1628
+D1
+~
+~
+0 -1 1649
+D2
+~
+~
+0 -1 1668
+D3
+~
+~
+0 -1 1647
+S
+#1649
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1629
+D1
+~
+~
+0 -1 1650
+D2
+~
+~
+0 -1 1669
+D3
+~
+~
+0 -1 1648
+S
+#1650
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1630
+D1
+~
+~
+0 -1 1651
+D2
+~
+~
+0 -1 1670
+D3
+~
+~
+0 -1 1649
+S
+#1651
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1631
+D1
+~
+~
+0 -1 1652
+D2
+~
+~
+0 -1 1671
+D3
+~
+~
+0 -1 1650
+S
+#1652
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1632
+D1
+~
+~
+0 -1 1653
+D2
+~
+~
+0 -1 1672
+D3
+~
+~
+0 -1 1651
+S
+#1653
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1633
+D1
+~
+~
+0 -1 1654
+D2
+~
+~
+0 -1 1673
+D3
+~
+~
+0 -1 1652
+S
+#1654
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1634
+D1
+~
+~
+0 -1 1655
+D2
+~
+~
+0 -1 1674
+D3
+~
+~
+0 -1 1653
+S
+#1655
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1635
+D1
+~
+~
+0 -1 1656
+D2
+~
+~
+0 -1 1675
+D3
+~
+~
+0 -1 1654
+S
+#1656
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1636
+D1
+~
+~
+0 -1 1657
+D2
+~
+~
+0 -1 1676
+D3
+~
+~
+0 -1 1655
+S
+#1657
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1637
+D1
+~
+~
+0 -1 1658
+D2
+~
+~
+0 -1 1677
+D3
+~
+~
+0 -1 1656
+S
+#1658
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1638
+D1
+~
+~
+0 -1 1659
+D2
+~
+~
+0 -1 1678
+D3
+~
+~
+0 -1 1657
+S
+#1659
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1639
+D2
+~
+~
+0 -1 1679
+D3
+~
+~
+0 -1 1658
+S
+#1660
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1640
+D1
+~
+~
+0 -1 1661
+D2
+~
+~
+0 -1 1680
+D3
+~
+~
+0 0 1579
+S
+#1661
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1641
+D1
+~
+~
+0 -1 1662
+D2
+~
+~
+0 -1 1681
+D3
+~
+~
+0 -1 1660
+S
+#1662
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1642
+D1
+~
+~
+0 -1 1663
+D2
+~
+~
+0 -1 1682
+D3
+~
+~
+0 -1 1661
+S
+#1663
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1643
+D1
+~
+~
+0 -1 1664
+D2
+~
+~
+0 -1 1683
+D3
+~
+~
+0 -1 1662
+S
+#1664
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1644
+D1
+~
+~
+0 -1 1665
+D2
+~
+~
+0 -1 1684
+D3
+~
+~
+0 -1 1663
+S
+#1665
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1645
+D1
+~
+~
+0 -1 1666
+D2
+~
+~
+0 -1 1685
+D3
+~
+~
+0 -1 1664
+S
+#1666
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1646
+D1
+~
+~
+0 -1 1667
+D2
+~
+~
+0 -1 1686
+D3
+~
+~
+0 -1 1665
+S
+#1667
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1647
+D1
+~
+~
+0 -1 1668
+D2
+~
+~
+0 -1 1687
+D3
+~
+~
+0 -1 1666
+S
+#1668
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1648
+D1
+~
+~
+0 -1 1669
+D2
+~
+~
+0 -1 1688
+D3
+~
+~
+0 -1 1667
+S
+#1669
+Room~
+This description is yet unfinished...
+~
+16 0 15
+D0
+~
+~
+0 -1 1649
+D1
+~
+~
+0 -1 1670
+D2
+~
+~
+0 -1 1689
+D3
+~
+~
+0 -1 1668
+S
+#1670
+Room~
+This description is yet unfinished...
+~
+16 0 15
+D0
+~
+~
+0 -1 1650
+D1
+~
+~
+0 -1 1671
+D2
+~
+~
+0 -1 1690
+D3
+~
+~
+0 -1 1669
+S
+#1671
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1651
+D1
+~
+~
+0 -1 1672
+D2
+~
+~
+0 -1 1691
+D3
+~
+~
+0 -1 1670
+S
+#1672
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1652
+D1
+~
+~
+0 -1 1673
+D2
+~
+~
+0 -1 1692
+D3
+~
+~
+0 -1 1671
+S
+#1673
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1653
+D1
+~
+~
+0 -1 1674
+D2
+~
+~
+0 -1 1693
+D3
+~
+~
+0 -1 1672
+S
+#1674
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1654
+D1
+~
+~
+0 -1 1675
+D2
+~
+~
+0 -1 1694
+D3
+~
+~
+0 -1 1673
+S
+#1675
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1655
+D1
+~
+~
+0 -1 1676
+D2
+~
+~
+0 -1 1695
+D3
+~
+~
+0 -1 1674
+S
+#1676
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1656
+D1
+~
+~
+0 -1 1677
+D2
+~
+~
+0 -1 1696
+D3
+~
+~
+0 -1 1675
+S
+#1677
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1657
+D1
+~
+~
+0 -1 1678
+D2
+~
+~
+0 -1 1697
+D3
+~
+~
+0 -1 1676
+S
+#1678
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1658
+D1
+~
+~
+0 -1 1679
+D2
+~
+~
+0 -1 1698
+D3
+~
+~
+0 -1 1677
+S
+#1679
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1659
+D2
+~
+~
+0 -1 1699
+D3
+~
+~
+0 -1 1678
+S
+#1680
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1660
+D1
+~
+~
+0 -1 1681
+D3
+~
+~
+0 0 1599
+S
+#1681
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1661
+D1
+~
+~
+0 -1 1682
+D3
+~
+~
+0 -1 1680
+S
+#1682
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1662
+D1
+~
+~
+0 -1 1683
+D3
+~
+~
+0 -1 1681
+S
+#1683
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1663
+D1
+~
+~
+0 -1 1684
+D3
+~
+~
+0 -1 1682
+S
+#1684
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1664
+D1
+~
+~
+0 -1 1685
+D3
+~
+~
+0 -1 1683
+S
+#1685
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1665
+D1
+~
+~
+0 -1 1686
+D3
+~
+~
+0 -1 1684
+S
+#1686
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1666
+D1
+~
+~
+0 -1 1687
+D3
+~
+~
+0 -1 1685
+S
+#1687
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1667
+D1
+~
+~
+0 -1 1688
+D3
+~
+~
+0 -1 1686
+S
+#1688
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1668
+D1
+~
+~
+0 -1 1689
+D3
+~
+~
+0 -1 1687
+S
+#1689
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1669
+D1
+~
+~
+0 -1 1690
+D3
+~
+~
+0 -1 1688
+S
+#1690
+Room~
+This description is yet unfinished...
+~
+16 0 15
+D0
+~
+~
+0 -1 1670
+D1
+~
+~
+0 -1 1691
+D3
+~
+~
+0 -1 1689
+S
+#1691
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1671
+D1
+~
+~
+0 -1 1692
+D3
+~
+~
+0 -1 1690
+S
+#1692
+Room~
+This description is yet unfinished...
+~
+16 0 16
+D0
+~
+~
+0 -1 1672
+D1
+~
+~
+0 -1 1693
+D3
+~
+~
+0 -1 1691
+S
+#1693
+Room~
+This description is yet unfinished...
+~
+16 0 6
+D0
+~
+~
+0 -1 1673
+D1
+~
+~
+0 -1 1694
+D3
+~
+~
+0 -1 1692
+S
+#1694
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1674
+D1
+~
+~
+0 -1 1695
+D3
+~
+~
+0 -1 1693
+S
+#1695
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1675
+D1
+~
+~
+0 -1 1696
+D3
+~
+~
+0 -1 1694
+S
+#1696
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1676
+D1
+~
+~
+0 -1 1697
+D3
+~
+~
+0 -1 1695
+S
+#1697
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1677
+D1
+~
+~
+0 -1 1698
+D3
+~
+~
+0 -1 1696
+S
+#1698
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1678
+D1
+~
+~
+0 -1 1699
+D3
+~
+~
+0 -1 1697
+S
+#1699
+Room~
+This description is yet unfinished...
+~
+16 0 7
+D0
+~
+~
+0 -1 1679
+D3
+~
+~
+0 -1 1698
+S
+$~

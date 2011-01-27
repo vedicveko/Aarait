@@ -1,0 +1,2096 @@
+#2000
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2001
+D2
+~
+~
+0 -1 2007
+S
+#2001
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2002
+D3
+~
+~
+0 -1 2000
+S
+#2002
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2003
+D3
+~
+~
+0 -1 2001
+S
+#2003
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D2
+~
+~
+0 -1 2008
+D3
+~
+~
+0 -1 2002
+S
+#2004
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2005
+D2
+~
+~
+0 -1 2009
+S
+#2005
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2006
+D2
+~
+~
+0 -1 2010
+D3
+~
+~
+0 -1 2004
+S
+#2006
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D2
+~
+~
+0 -1 2011
+D3
+~
+~
+0 -1 2005
+S
+#2007
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2000
+D2
+~
+~
+0 -1 2015
+S
+#2008
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2003
+D2
+~
+~
+0 -1 2016
+S
+#2009
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2004
+D1
+~
+~
+0 -1 2010
+D2
+~
+~
+0 -1 2018
+S
+#2010
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2005
+D1
+~
+~
+0 -1 2011
+D2
+~
+~
+0 -1 2019
+D3
+~
+~
+0 -1 2009
+S
+#2011
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2006
+D2
+~
+~
+0 -1 2020
+D3
+~
+~
+0 -1 2010
+S
+#2012
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2013
+D2
+~
+~
+0 -1 2023
+S
+#2013
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2014
+D2
+~
+~
+0 -1 2024
+D3
+~
+~
+0 -1 2012
+S
+#2014
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D2
+~
+~
+0 -1 2025
+D3
+~
+~
+0 -1 2013
+S
+#2015
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2007
+D2
+~
+~
+0 -1 2026
+S
+#2016
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2008
+D1
+~
+~
+0 -1 2017
+S
+#2017
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2018
+D2
+~
+~
+0 -1 2027
+D3
+~
+~
+0 -1 2016
+S
+#2018
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2009
+D1
+~
+~
+0 -1 2019
+D3
+~
+~
+0 -1 2017
+S
+#2019
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2010
+D1
+~
+~
+0 -1 2020
+D3
+~
+~
+0 -1 2018
+S
+#2020
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2011
+D3
+~
+~
+0 -1 2019
+S
+#2021
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D2
+~
+~
+0 -1 2030
+S
+#2022
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2023
+D2
+~
+~
+0 -1 2039
+S
+#2023
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2012
+D1
+~
+~
+0 -1 2024
+D2
+~
+~
+0 -1 2040
+D3
+~
+~
+0 -1 2022
+S
+#2024
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2013
+D1
+~
+~
+0 -1 2025
+D2
+~
+~
+0 -1 2041
+D3
+~
+~
+0 -1 2023
+S
+#2025
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2014
+D2
+~
+~
+0 -1 2042
+D3
+~
+~
+0 -1 2024
+S
+#2026
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2015
+D2
+~
+~
+0 -1 2048
+S
+#2027
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2017
+D2
+~
+~
+0 -1 2049
+S
+#2028
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2029
+D2
+~
+~
+0 -1 2052
+S
+#2029
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2030
+D3
+~
+~
+0 -1 2028
+S
+#2030
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2021
+D1
+~
+~
+0 -1 2031
+D2
+~
+~
+0 -1 2053
+D3
+~
+~
+0 -1 2029
+S
+#2031
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D3
+~
+~
+0 -1 2030
+S
+#2032
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2033
+D2
+~
+~
+0 -1 2055
+S
+#2033
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2034
+D2
+~
+~
+0 -1 2056
+D3
+~
+~
+0 -1 2032
+S
+#2034
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2035
+D2
+~
+~
+0 -1 2057
+D3
+~
+~
+0 -1 2033
+S
+#2035
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2036
+D2
+~
+~
+0 -1 2058
+D3
+~
+~
+0 -1 2034
+S
+#2036
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2037
+D2
+~
+~
+0 -1 2059
+D3
+~
+~
+0 -1 2035
+S
+#2037
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2038
+D2
+~
+~
+0 -1 2060
+D3
+~
+~
+0 -1 2036
+S
+#2038
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2039
+D2
+~
+~
+0 -1 2061
+D3
+~
+~
+0 -1 2037
+S
+#2039
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2022
+D1
+~
+~
+0 -1 2040
+D2
+~
+~
+0 -1 2062
+D3
+~
+~
+0 -1 2038
+S
+#2040
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2023
+D1
+~
+~
+0 -1 2041
+D2
+~
+~
+0 -1 2063
+D3
+~
+~
+0 -1 2039
+S
+#2041
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2024
+D1
+~
+~
+0 -1 2042
+D2
+~
+~
+0 -1 2064
+D3
+~
+~
+0 -1 2040
+S
+#2042
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2025
+D1
+~
+~
+0 -1 2043
+D2
+~
+~
+0 -1 2065
+D3
+~
+~
+0 -1 2041
+S
+#2043
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2044
+D2
+~
+~
+0 -1 2066
+D3
+~
+~
+0 -1 2042
+S
+#2044
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2045
+D2
+~
+~
+0 -1 2067
+D3
+~
+~
+0 -1 2043
+S
+#2045
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2046
+D3
+~
+~
+0 -1 2044
+S
+#2046
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2047
+D3
+~
+~
+0 -1 2045
+S
+#2047
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D3
+~
+~
+0 -1 2046
+S
+#2048
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2026
+D2
+~
+~
+0 -1 2069
+S
+#2049
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2027
+D1
+~
+~
+0 -1 2050
+S
+#2050
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2051
+D3
+~
+~
+0 -1 2049
+S
+#2051
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2052
+D2
+~
+~
+0 -1 2070
+D3
+~
+~
+0 -1 2050
+S
+#2052
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2028
+D3
+~
+~
+0 -1 2051
+S
+#2053
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2030
+S
+#2054
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2055
+D2
+~
+~
+0 -1 2071
+S
+#2055
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2032
+D1
+~
+~
+0 -1 2056
+D2
+~
+~
+0 -1 2072
+D3
+~
+~
+0 -1 2054
+S
+#2056
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2033
+D1
+~
+~
+0 -1 2057
+D2
+~
+~
+0 -1 2073
+D3
+~
+~
+0 -1 2055
+S
+#2057
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2034
+D1
+~
+~
+0 -1 2058
+D2
+~
+~
+0 -1 2074
+D3
+~
+~
+0 -1 2056
+S
+#2058
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2035
+D1
+~
+~
+0 -1 2059
+D2
+~
+~
+0 -1 2075
+D3
+~
+~
+0 -1 2057
+S
+#2059
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2036
+D1
+~
+~
+0 -1 2060
+D2
+~
+~
+0 -1 2076
+D3
+~
+~
+0 -1 2058
+S
+#2060
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2037
+D1
+~
+~
+0 -1 2061
+D2
+~
+~
+0 -1 2077
+D3
+~
+~
+0 -1 2059
+S
+#2061
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2038
+D1
+~
+~
+0 -1 2062
+D2
+~
+~
+0 -1 2078
+D3
+~
+~
+0 -1 2060
+S
+#2062
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2039
+D1
+~
+~
+0 -1 2063
+D2
+~
+~
+0 -1 2079
+D3
+~
+~
+0 -1 2061
+S
+#2063
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2040
+D1
+~
+~
+0 -1 2064
+D2
+~
+~
+0 -1 2080
+D3
+~
+~
+0 -1 2062
+S
+#2064
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2041
+D1
+~
+~
+0 -1 2065
+D2
+~
+~
+0 -1 2081
+D3
+~
+~
+0 -1 2063
+S
+#2065
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2042
+D1
+~
+~
+0 -1 2066
+D2
+~
+~
+0 -1 2082
+D3
+~
+~
+0 -1 2064
+S
+#2066
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2043
+D1
+~
+~
+0 -1 2067
+D2
+~
+~
+0 -1 2083
+D3
+~
+~
+0 -1 2065
+S
+#2067
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2044
+D2
+~
+~
+0 -1 2084
+D3
+~
+~
+0 -1 2066
+S
+#2068
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2069
+D2
+~
+~
+0 -1 2092
+S
+#2069
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2048
+D3
+~
+~
+0 -1 2068
+S
+#2070
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2051
+D2
+~
+~
+0 -1 2093
+S
+#2071
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2054
+D1
+~
+~
+0 -1 2072
+S
+#2072
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2055
+D1
+~
+~
+0 -1 2073
+D3
+~
+~
+0 -1 2071
+S
+#2073
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2056
+D1
+~
+~
+0 -1 2074
+D2
+~
+~
+0 -1 2095
+D3
+~
+~
+0 -1 2072
+S
+#2074
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2057
+D1
+~
+~
+0 -1 2075
+D2
+~
+~
+0 -1 2096
+D3
+~
+~
+0 -1 2073
+S
+#2075
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2058
+D1
+~
+~
+0 -1 2076
+D2
+~
+~
+0 -1 2097
+D3
+~
+~
+0 -1 2074
+S
+#2076
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2059
+D1
+~
+~
+0 -1 2077
+D2
+~
+~
+0 -1 2098
+D3
+~
+~
+0 -1 2075
+S
+#2077
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2060
+D1
+~
+~
+0 -1 2078
+D2
+~
+~
+0 -1 2099
+D3
+~
+~
+0 -1 2076
+S
+#2078
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2061
+D1
+~
+~
+0 -1 2079
+D2
+~
+~
+0 -1 2100
+D3
+~
+~
+0 -1 2077
+S
+#2079
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2062
+D1
+~
+~
+0 -1 2080
+D2
+~
+~
+0 -1 2101
+D3
+~
+~
+0 -1 2078
+S
+#2080
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2063
+D1
+~
+~
+0 -1 2081
+D2
+~
+~
+0 -1 2102
+D3
+~
+~
+0 -1 2079
+S
+#2081
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2064
+D1
+~
+~
+0 -1 2082
+D2
+~
+~
+0 -1 2103
+D3
+~
+~
+0 -1 2080
+S
+#2082
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2065
+D1
+~
+~
+0 -1 2083
+D2
+~
+~
+0 -1 2104
+D3
+~
+~
+0 -1 2081
+S
+#2083
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2066
+D1
+~
+~
+0 -1 2084
+D2
+~
+~
+0 -1 2105
+D3
+~
+~
+0 -1 2082
+S
+#2084
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2067
+D1
+~
+~
+0 -1 2085
+D2
+~
+~
+0 -1 2106
+D3
+~
+~
+0 -1 2083
+S
+#2085
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2086
+D3
+~
+~
+0 -1 2084
+S
+#2086
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2087
+D3
+~
+~
+0 -1 2085
+S
+#2087
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2088
+D3
+~
+~
+0 -1 2086
+S
+#2088
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2089
+D3
+~
+~
+0 -1 2087
+S
+#2089
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2090
+D3
+~
+~
+0 -1 2088
+S
+#2090
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2091
+D3
+~
+~
+0 -1 2089
+S
+#2091
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2092
+D3
+~
+~
+0 -1 2090
+S
+#2092
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2068
+D3
+~
+~
+0 -1 2091
+S
+#2093
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2070
+D2
+~
+~
+0 -1 2108
+S
+#2094
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D1
+~
+~
+0 -1 2095
+S
+#2095
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2073
+D1
+~
+~
+0 -1 2096
+D3
+~
+~
+0 -1 2094
+S
+#2096
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2074
+D1
+~
+~
+0 -1 2097
+D2
+~
+~
+0 -1 2110
+D3
+~
+~
+0 -1 2095
+S
+#2097
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2075
+D1
+~
+~
+0 -1 2098
+D2
+~
+~
+0 -1 2111
+D3
+~
+~
+0 -1 2096
+S
+#2098
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2076
+D1
+~
+~
+0 -1 2099
+D2
+~
+~
+0 -1 2112
+D3
+~
+~
+0 -1 2097
+S
+#2099
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2077
+D1
+~
+~
+0 -1 2100
+D2
+~
+~
+0 -1 2113
+D3
+~
+~
+0 -1 2098
+S
+#2100
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2078
+D1
+~
+~
+0 -1 2101
+D2
+~
+~
+0 -1 2114
+D3
+~
+~
+0 -1 2099
+S
+#2101
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2079
+D1
+~
+~
+0 -1 2102
+D2
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2100
+S
+#2102
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2080
+D1
+~
+~
+0 -1 2103
+D2
+~
+~
+0 -1 2116
+D3
+~
+~
+0 -1 2101
+S
+#2103
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2081
+D1
+~
+~
+0 -1 2104
+D2
+~
+~
+0 -1 2117
+D3
+~
+~
+0 -1 2102
+S
+#2104
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2082
+D1
+~
+~
+0 -1 2105
+D2
+~
+~
+0 -1 2118
+D3
+~
+~
+0 -1 2103
+S
+#2105
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2083
+D1
+~
+~
+0 -1 2106
+D3
+~
+~
+0 -1 2104
+S
+#2106
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2084
+D3
+~
+~
+0 -1 2105
+S
+#2107
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D1
+~
+~
+0 -1 2108
+S
+#2108
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2093
+D1
+~
+~
+0 -1 2109
+D2
+~
+~
+0 -1 2119
+D3
+~
+~
+0 -1 2107
+S
+#2109
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D3
+~
+~
+0 -1 2108
+S
+#2110
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2096
+D1
+~
+~
+0 -1 2111
+S
+#2111
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2097
+D1
+~
+~
+0 -1 2112
+D3
+~
+~
+0 -1 2110
+S
+#2112
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2098
+D1
+~
+~
+0 -1 2113
+D3
+~
+~
+0 -1 2111
+S
+#2113
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2099
+D1
+~
+~
+0 -1 2114
+D3
+~
+~
+0 -1 2112
+S
+#2114
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2100
+D1
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2113
+S
+#2115
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2101
+D1
+~
+~
+0 -1 2116
+D3
+~
+~
+0 -1 2114
+S
+#2116
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2102
+D1
+~
+~
+0 -1 2117
+D3
+~
+~
+0 -1 2115
+S
+#2117
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2103
+D1
+~
+~
+0 -1 2118
+D3
+~
+~
+0 -1 2116
+S
+#2118
+Room~
+This description is yet unfinished...
+~
+20 1 7
+D0
+~
+~
+0 -1 2104
+D3
+~
+~
+0 -1 2117
+S
+#2119
+Room~
+This description is yet unfinished...
+~
+20 9 0
+D0
+~
+~
+0 -1 2108
+S

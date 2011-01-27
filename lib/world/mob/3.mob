@@ -1,0 +1,940 @@
+#300
+catfish channel~
+a channel catfish~
+A channel catfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 19 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 30
+Size: 0
+E
+#301
+blue catfish~
+a blue catfish~
+A blue catfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 50
+Size: 0
+E
+#302
+catfish bullhead~
+a bullhead catfish~
+A bullhead catfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#303
+dace fish~
+a dace~
+A dace swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#304
+spotted gar~
+a spotted gar~
+A spotted gar swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#305
+aligator gar~
+an alligator gar~
+An aligator gar swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 150
+Size: 0
+E
+#306
+stripper bass~
+a stripper bass~
+A stripper bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 17 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 25
+Size: 0
+E
+#307
+black crappie~
+a black crappie~
+A black crappie swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 17 9 1d1+15 1d5+0
+2 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#308
+black bass~
+a black bass~
+A large black bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 17 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#309
+loach~
+a loach~
+A loach swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#310
+pike~
+a pike~
+A pike swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#311
+golden trout~
+a golden trout~
+A golden trout has been dropped here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 7
+Size: 0
+E
+#312
+red crab~
+a red crab~
+A red crab swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#313
+blue crab~
+a blue crab~
+A blue crab swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 20 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#314
+crawfish~
+a crawfish~
+A crawfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 19 9 1d1+15 1d5+6
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#315
+clam~
+a clam~
+A clam swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 19 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#316
+bitterling~
+a bitterling~
+A bitterling swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#317
+rainbow trout~
+a rainbow trout~
+A rainbow trout swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 15
+Size: 0
+E
+#318
+crucian~
+a crucian~
+A crucian swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 6
+Size: 0
+E
+#319
+pumpkinseed~
+a pumpkinseed~
+A pumpkinseed swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 1
+Size: 0
+E
+#320
+bluegill~
+a bluegill~
+A bluegill swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 11 8 1d1+30 1d6+4
+0 203
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 2
+Size: 0
+E
+#321
+salmon~
+a salmon~
+A salmon swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#322
+longnose gar~
+a longnose gar~
+A longnose gar swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 13
+Size: 0
+E
+#323
+carp~
+a carp~
+A carp swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 25
+Size: 0
+E
+#324
+bigmouth buffalo~
+a bigmouth buffalo~
+A bigmouth buffalo swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 15
+Size: 0
+E
+#325
+smallmouth buffalo~
+a smallmouth buffalo~
+A smallmouth buffalo swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 15
+Size: 0
+E
+#326
+muskie muskie_fish~
+a muskie~
+A muskie swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 8
+Size: 0
+E
+#327
+paddlefish fish~
+a paddlefish~
+A paddlefish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 50
+Size: 0
+E
+#328
+smelt~
+a smelt~
+A smelt swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 7
+Size: 0
+E
+#329
+drum~
+a drum~
+A drum swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+1 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 25
+Size: 0
+E
+#330
+green turtle~
+a green turtle~
+A green turtle swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+2 18 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 10
+Size: 0
+E
+#331
+eel~
+an eel~
+An eel swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 4
+Size: 0
+E
+#332
+snake~
+a snake~
+A snake swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+0 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#333
+antelope~
+an antelope~
+An antelope grazes on some long brownish green grass.
+~
+A spindly animal, the antelope is almost all leg. It stands about four feet
+high and is covered in short brown hair. Two short, straight horns rise from
+the top of its head.
+~
+24584 0 0 E
+1 20 1 3d8+9 1d8+3
+0 3760
+8 8 0
+BareHandAttack: 9
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 40
+Size: 0
+E
+#334
+deer~
+a deer~
+A deer chews on a clump of weeds.
+~
+The deer is waist high with a brownish short coat of hair.
+~
+24584 0 0 E
+1 20 1 3d8+9 1d8+3
+0 909
+8 8 0
+BareHandAttack: 9
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 30
+Size: 0
+E
+#335
+a turkey~
+a turkey~
+A turkey struts about.
+~
+It looks unfinished.
+~
+49160 0 0 E
+1 20 1 1d4+0 1d2+0
+0 605
+8 8 0
+BareHandAttack: 10
+Str: 6
+Dex: 17
+Int: 3
+Wis: 14
+Con: 10
+Cha: 4
+Race: 2
+Weight: 9
+Size: 1
+E
+#336
+pheasant~
+a pheasant~
+A pheasant scratches the ground looking for grubs.
+~
+It looks unfinished.
+~
+57352 0 0 E
+1 20 1 1d2+0 1d2+0
+0 356
+8 8 0
+BareHandAttack: 10
+Str: 33
+Dex: 33
+Int: 33
+Wis: 33
+Con: 11
+Cha: 11
+Race: 2
+Weight: 6
+Size: 1
+E
+#337
+rabbit~
+a rabbit~
+A grey rabbit scurries about.
+~
+It looks unfinished.
+~
+16392 0 0 E
+1 20 1 1d3+1 1d3+0
+0 202
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 4
+Size: 1
+E
+#338
+quail~
+a quail~
+A speckled quail scurries for cover.
+~
+It looks unfinished.
+~
+57352 0 0 E
+1 20 1 1d1+2 1d2+0
+0 102
+8 8 0
+BareHandAttack: 10
+Str: 33
+Dex: 33
+Int: 33
+Wis: 33
+Con: 11
+Cha: 11
+Race: 2
+Weight: 2
+Size: 2
+E
+#340
+hunter~
+a hunter~
+A hunter looks around for some game.
+~
+It looks unfinished.
+~
+76 0 0 E
+1 20 1 1d8+0 4d9+4
+0 130029
+8 8 1
+BareHandAttack: 13
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+Race: 7
+Weight: 120
+Size: 0
+E
+#341
+leader quail~
+a quail~
+A speckled quail scurries for cover.
+~
+It looks unfinished.
+~
+33603592 0 0 E
+1 20 1 1d1+2 1d2+0
+0 102
+8 8 0
+BareHandAttack: 10
+Str: 33
+Dex: 33
+Int: 33
+Wis: 33
+Con: 11
+Cha: 11
+Race: 2
+Weight: 2
+Size: 2
+E
+#342
+leader pheasant~
+a pheasant~
+A pheasant scratches the ground looking for grubs.
+~
+It looks unfinished.
+~
+33603592 0 0 E
+1 20 1 1d2+0 1d2+0
+0 356
+8 8 0
+BareHandAttack: 10
+Str: 33
+Dex: 33
+Int: 33
+Wis: 33
+Con: 11
+Cha: 11
+Race: 2
+Weight: 6
+Size: 1
+E
+#343
+leader deer~
+a deer~
+A deer chews on a clump of weeds.
+~
+The deer is waist high with a brownish short coat of hair.
+~
+33570824 0 0 E
+1 20 1 3d8+9 1d8+3
+0 909
+8 8 0
+BareHandAttack: 9
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 30
+Size: 0
+E
+#344
+leader antelope~
+an antelope~
+An antelope grazes on some long brownish green grass.
+~
+A spindly animal, the antelope is almost all leg. It stands about four feet
+high and is covered in short brown hair. Two short, straight horns rise from
+the top of its head.
+~
+33570824 0 0 E
+1 20 1 3d8+9 1d8+3
+0 3760
+8 8 0
+BareHandAttack: 9
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 40
+Size: 0
+E
+$

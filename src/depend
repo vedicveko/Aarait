@@ -1,0 +1,110 @@
+act.comm.o: act.comm.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h screen.h improved-edit.h
+act.informative.o: act.informative.c conf.h sysdep.h structs.h utils.h \
+ comm.h interpreter.h handler.h db.h spells.h screen.h constants.h
+act.item.o: act.item.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h constants.h
+act.movement.o: act.movement.c conf.h sysdep.h structs.h utils.h \
+ comm.h interpreter.h handler.h db.h spells.h constants.h
+act.other.o: act.other.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h screen.h constants.h
+act.social.o: act.social.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h
+act.wizard.o: act.wizard.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h screen.h constants.h \
+ oasis.h
+alias.o: alias.c conf.h sysdep.h structs.h utils.h interpreter.h db.h
+ban.o: ban.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ handler.h db.h
+boards.o: boards.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+ boards.h interpreter.h handler.h
+class.o: class.c conf.h sysdep.h structs.h db.h utils.h spells.h \
+ interpreter.h constants.h
+color.o: color.c
+comm.o: comm.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ handler.h db.h genolc.h oasis.h screen.h
+config.o: config.c conf.h sysdep.h structs.h interpreter.h
+constants.o: constants.c conf.h sysdep.h structs.h interpreter.h
+db.o: db.c conf.h sysdep.h structs.h utils.h db.h comm.h handler.h \
+ spells.h mail.h interpreter.h constants.h
+fight.o: fight.c conf.h sysdep.h structs.h utils.h comm.h handler.h \
+ interpreter.h db.h spells.h screen.h constants.h
+genmob.o: genmob.c conf.h sysdep.h structs.h utils.h db.h shop.h \
+ handler.h genolc.h genmob.h genzon.h
+genobj.o: genobj.c conf.h sysdep.h structs.h utils.h db.h boards.h \
+ shop.h genolc.h genobj.h genzon.h
+genolc.o: genolc.c conf.h sysdep.h structs.h utils.h db.h handler.h \
+ comm.h shop.h genolc.h genwld.h genmob.h genshp.h genzon.h genobj.h \
+ interpreter.h
+genshp.o: genshp.c conf.h sysdep.h structs.h utils.h db.h shop.h \
+ genolc.h genshp.h genzon.h
+genwld.o: genwld.c conf.h sysdep.h structs.h utils.h db.h handler.h \
+ comm.h genolc.h genwld.h genzon.h
+genzon.o: genzon.c conf.h sysdep.h structs.h utils.h db.h genolc.h \
+ genzon.h
+graph.o: graph.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h
+handler.o: handler.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+ handler.h interpreter.h spells.h
+improved-edit.o: improved-edit.c conf.h sysdep.h structs.h utils.h \
+ db.h comm.h interpreter.h improved-edit.h
+interpreter.o: interpreter.c conf.h sysdep.h structs.h comm.h \
+ interpreter.h db.h utils.h spells.h handler.h mail.h screen.h \
+ genolc.h oasis.h tedit.h
+limits.o: limits.c conf.h sysdep.h structs.h utils.h spells.h comm.h \
+ db.h handler.h interpreter.h
+mail.o: mail.c conf.h sysdep.h structs.h utils.h comm.h db.h \
+ interpreter.h handler.h mail.h
+medit.o: medit.c conf.h sysdep.h structs.h interpreter.h comm.h \
+ spells.h utils.h db.h shop.h genolc.h genmob.h genzon.h genshp.h \
+ oasis.h handler.h constants.h improved-edit.h
+mobact.o: mobact.c conf.h sysdep.h structs.h utils.h db.h comm.h \
+ interpreter.h handler.h spells.h constants.h
+modify.o: modify.c conf.h sysdep.h structs.h utils.h interpreter.h \
+ handler.h db.h comm.h spells.h mail.h boards.h improved-edit.h \
+ oasis.h tedit.h
+oasis.o: oasis.c conf.h sysdep.h structs.h utils.h interpreter.h \
+ comm.h db.h shop.h genolc.h genmob.h genshp.h genzon.h genwld.h \
+ genobj.h oasis.h screen.h
+objsave.o: objsave.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+ interpreter.h utils.h spells.h
+oedit.o: oedit.c conf.h sysdep.h structs.h comm.h interpreter.h \
+ spells.h utils.h db.h boards.h constants.h shop.h genolc.h genobj.h \
+ oasis.h improved-edit.h
+olc.o: olc.c conf.h sysdep.h structs.h utils.h comm.h interpreter.h \
+ handler.h db.h olc.h
+random.o: random.c
+redit.o: redit.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h db.h boards.h genolc.h genwld.h oasis.h improved-edit.h
+sedit.o: sedit.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h db.h shop.h genolc.h genshp.h oasis.h
+shop.o: shop.c conf.h sysdep.h structs.h comm.h handler.h db.h \
+ interpreter.h utils.h shop.h constants.h
+spec_assign.o: spec_assign.c conf.h sysdep.h structs.h db.h \
+ interpreter.h utils.h
+spec_procs.o: spec_procs.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h constants.h
+tedit.o: tedit.c conf.h sysdep.h structs.h utils.h interpreter.h \
+ comm.h db.h genolc.h oasis.h improved-edit.h tedit.h
+utils.o: utils.c conf.h sysdep.h structs.h utils.h db.h comm.h \
+ screen.h spells.h handler.h interpreter.h
+weather.o: weather.c conf.h sysdep.h structs.h utils.h comm.h \
+ handler.h interpreter.h db.h
+zedit.o: zedit.c conf.h sysdep.h structs.h comm.h interpreter.h \
+ utils.h db.h constants.h genolc.h genzon.h oasis.h
+pigf_procs.o: pigf_procs.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h constants.h
+assemblies.o: assemblies.c conf.h sysdep.h structs.h utils.h \
+ assemblies.h comm.h constants.h db.h handler.h interpreter.h
+assedit.o: assedit.c conf.h sysdep.h structs.h utils.h db.h comm.h \
+ handler.h interpreter.h assemblies.h oasis.h
+asciimap.o: asciimap.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h constants.h
+coins.o: coins.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h constants.h coins.h
+records.o: records.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h spells.h screen.h constants.h coins.h
+ferry.o: ferry.c conf.h sysdep.h structs.h utils.h comm.h \
+ interpreter.h handler.h db.h
+quest.o: quest.c conf.h sysdep.h structs.h utils.h interpreter.h db.h \
+ comm.h screen.h olc.h quest.h

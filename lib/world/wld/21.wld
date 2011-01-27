@@ -1,0 +1,349 @@
+#2100
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2078
+D1
+~
+~
+0 -1 2101
+D2
+~
+~
+0 -1 2114
+D3
+~
+~
+0 -1 2099
+S
+#2101
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2079
+D1
+~
+~
+0 -1 2102
+D2
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2100
+S
+#2102
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2080
+D1
+~
+~
+0 -1 2103
+D2
+~
+~
+0 -1 2116
+D3
+~
+~
+0 -1 2101
+S
+#2103
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2081
+D1
+~
+~
+0 -1 2104
+D2
+~
+~
+0 -1 2117
+D3
+~
+~
+0 -1 2102
+S
+#2104
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2082
+D1
+~
+~
+0 -1 2105
+D2
+~
+~
+0 -1 2118
+D3
+~
+~
+0 -1 2103
+S
+#2105
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2083
+D1
+~
+~
+0 -1 2106
+D3
+~
+~
+0 -1 2104
+S
+#2106
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2084
+D3
+~
+~
+0 -1 2105
+S
+#2107
+Room~
+This description is yet unfinished...
+~
+21 ad 0
+D1
+~
+door~
+1 -1 2108
+S
+#2108
+Room~
+This description is yet unfinished...
+~
+21 ad 0
+D0
+~
+undefined~
+0 -1 2093
+D1
+~
+door~
+1 -1 2109
+D2
+~
+door~
+1 -1 2119
+D3
+~
+door~
+1 -1 2107
+S
+#2109
+Room~
+This description is yet unfinished...
+~
+21 ad 0
+D3
+~
+door~
+1 -1 2108
+S
+#2110
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2096
+D1
+~
+~
+0 -1 2111
+S
+#2111
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2097
+D1
+~
+~
+0 -1 2112
+D3
+~
+~
+0 -1 2110
+S
+#2112
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2098
+D1
+~
+~
+0 -1 2113
+D3
+~
+~
+0 -1 2111
+S
+#2113
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2099
+D1
+~
+~
+0 -1 2114
+D3
+~
+~
+0 -1 2112
+S
+#2114
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2100
+D1
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2113
+S
+#2115
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2101
+D1
+~
+~
+0 -1 2116
+D3
+~
+~
+0 -1 2114
+S
+#2116
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2102
+D1
+~
+~
+0 -1 2117
+D3
+~
+~
+0 -1 2115
+S
+#2117
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2103
+D1
+~
+~
+0 -1 2118
+D3
+~
+~
+0 -1 2116
+S
+#2118
+Room~
+This description is yet unfinished...
+~
+21 a 7
+D0
+~
+~
+0 -1 2104
+D3
+~
+~
+0 -1 2117
+S
+#2119
+Room~
+This description is yet unfinished...
+~
+21 ad 0
+D0
+~
+door~
+1 -1 2108
+S
+$~

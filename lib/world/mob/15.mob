@@ -1,0 +1,547 @@
+#1500
+stingray~
+a stingray~
+A stingray swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 50
+Size: 0
+E
+#1501
+blue shark~
+a blue shark~
+A blue shark swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 130
+Size: 0
+E
+#1502
+bull shark~
+a bull shark~
+A bull shark swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 175
+Size: 0
+E
+#1503
+reticulated moray~
+a reticulated moray~
+A reticulated moray swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 100
+Size: 0
+E
+#1504
+leopard toadfish~
+a leopard toadfish~
+A leopard toadfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+0
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 100
+Size: 0
+E
+#1505
+flounder~
+a flounder~
+A flounder swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 17 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 130
+Size: 0
+E
+#1506
+rock sea bass~
+a rock sea bass~
+A rock sea bass swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 150
+Size: 0
+E
+#1507
+samp grouper~
+a samp grouper~
+A samp grouper swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 230
+Size: 0
+E
+#1508
+red snapper~
+a red snapper~
+A red snapper swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 200
+Size: 0
+E
+#1509
+short bigeye~
+a short bigeye~
+A short bigeye swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 130
+Size: 0
+E
+#1510
+yellow jack~
+a yellow jack~
+A yellow jack swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 17 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 110
+Size: 0
+E
+#1511
+cigar fish~
+a cigar fish~
+A cigar fish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 143
+Size: 0
+E
+#1512
+king mackerel~
+a king mackerel~
+A king mackerel swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 20 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 222
+Size: 0
+E
+#1513
+dogfish~
+a dogfish~
+A dogfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 130
+Size: 0
+E
+#1514
+saltwater bennyfish~
+a saltwater bennyfish~
+A saltwater bennyfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 17 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 530
+Size: 0
+E
+#1515
+bonefish~
+a bonefish~
+A bonefish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 56
+Size: 0
+E
+#1516
+blue marlin~
+a blue marlin~
+A blue marlin swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+2
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 300
+Size: 0
+E
+#1517
+sailfish~
+a sailfish~
+A sailfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 19 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 324
+Size: 0
+E
+#1518
+tuna~
+a tuna~
+A tuna swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 17 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 120
+Size: 0
+E
+#1519
+squid~
+a squid~
+A squid swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 19 9 1d1+15 1d5+3
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 30
+Size: 0
+E
+#1520
+giant squid~
+a giant squid~
+A giant squid swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 19 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 400
+Size: 0
+E
+#1521
+cod~
+a cod~
+A cod swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+1
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 30
+Size: 0
+E
+#1522
+jellyfish~
+a jellyfish~
+A jellyfish swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+4
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 3
+Size: 0
+E
+#1523
+octopus~
+an octopus~
+An octopus swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 18 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 30
+Size: 0
+E
+#1524
+sea dragon~
+a sea dragon~
+A sea dragon swims here.
+~
+It looks unfinished.
+~
+8 1090 0 E
+3 17 9 1d1+15 1d5+5
+0 101
+8 8 0
+Str: 7
+Dex: 7
+Int: 7
+Wis: 7
+Con: 11
+Cha: 11
+Race: 14
+Weight: 730
+Size: 0
+E
+#1525
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 66 0 E
+0 20 1 13d0+13 1d1+0
+0 0
+8 8 0
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 14
+Weight: 1
+Size: 0
+E
+$

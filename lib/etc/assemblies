@@ -1,0 +1,35 @@
+Vnum                #15 craft
+Component           #421 1 0
+Component           #16 0 0
+
+Vnum                #17 craft
+Component           #407 1 0
+Component           #16 0 0
+
+Vnum                #18 craft
+Component           #403 1 0
+Component           #16 0 0
+
+Vnum                #19 craft
+Component           #201 1 0
+Component           #16 0 0
+
+Vnum                #126 craft
+Component           #1385 0 0
+Component           #1386 1 0
+Component           #1389 1 0
+
+Vnum                #128 craft
+Component           #1389 1 0
+Component           #1388 1 0
+Component           #1385 0 0
+
+Vnum                #129 craft
+Component           #422 1 0
+Component           #1385 1 0
+Component           #1389 1 0
+
+Vnum                #144 craft
+Component           #145 1 0
+Component           #1387 1 0
+Component           #1385 0 0

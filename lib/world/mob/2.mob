@@ -1,0 +1,219 @@
+#200
+furry squirrel~
+a furry squirrel~
+A cute furry squirrel chitters at you from an acorn tree.
+~
+Ahhhh... Look at the cute bushy tail!
+~
+83902472 1024 0 E
+1 20 1 1d3+1 1d1+0
+0 101
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 2
+Size: 0
+E
+#201
+wolf~
+a big, nasty wolf~
+A big, nasty wolf looks for a pig to eat.
+~
+The wolf is big, a good four feet tall in fact, with a short brown coat and
+long sharp dagger like teeth.  You had better keep your pigs away from this
+fellow.    
+~
+67108872 1024 0 E
+1 20 1 2d8+4 1d6+1
+0 40022
+8 8 0
+BareHandAttack: 9
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 28
+Size: 0
+E
+#202
+skeleton farmer~
+the skeleton of a dead pig farmer~
+The skeleton of a dead pig farmer roams the acorn forest.
+~
+The tattered remains of a flannel shirt and a pair of breeches still cling to
+it.    
+~
+67108872 1024 0 E
+20 20 0 1d1+2 1d2+0
+0 40030
+8 8 0
+BareHandAttack: 13
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 8
+Size: 0
+E
+#203
+crab~
+a bright red crab~
+A bright red crab roams through the acorn trees.
+~
+This crab has a large right claw perfect for killing little pigs.    
+~
+67108872 1024 0 E
+10 20 2 1d1+140 2d2+0
+0 9016
+8 8 0
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 13
+Weight: 6
+Size: 0
+E
+#204
+racoon coon~
+a racoon~
+A racoon peers out from behind a bush.
+~
+It looks unfinished.
+~
+18890824 1024 0 E
+0 20 1 1d5+1 1d3+0
+0 0
+8 8 0
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 25
+Size: 0
+E
+#205
+skeleton dead fisherman~
+the skeleton of a dead fisherman~
+The skeleton of a dead fisherman shambles past an acorn tree.
+~
+.
+~
+67108872 1024 0 E
+0 20 1 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 8
+Weight: 120
+Size: 0
+E
+#206
+wolf dire~
+a dire wolf~
+A dire wolf stalks a pig.
+~
+It looks unfinished.
+~
+67108872 1024 0 E
+1 20 1 6d8+45 1d8+10
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 12
+Weight: 100
+Size: -1
+E
+#207
+skeleton dead goblin slayer~
+the skeleton of a dead goblin slayer~
+The skeleton of a dead goblin slayer rattles its bones.
+~
+It looks unfinished.
+~
+67108872 1024 0 E
+0 20 1 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Race: 8
+Weight: 120
+Size: 0
+E
+#208
+boar wild~
+a wild boar~
+A wild boar ruts in the dirt.
+~
+.
+~
+16777224 1024 0 E
+0 20 1 2d0+2 1d8+3
+0 0
+8 8 0
+BareHandAttack: 9
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 11
+Weight: 25
+Size: 0
+E
+#209
+fox red~
+a red fox~
+A red fox slinks about the forest.
+~
+It looks unfinished.
+~
+16777224 1024 0 E
+0 20 1 3d9+1 1d3+0
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 10
+Int: 3
+Wis: 13
+Con: 17
+Cha: 4
+Race: 3
+Weight: 3
+Size: 0
+E
+$

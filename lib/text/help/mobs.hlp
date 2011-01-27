@@ -1,0 +1,206 @@
+DEER
+Habitat: Fields, Forests, Hills, Mountains.
+Frequency: Common
+Active: All Times
+
+#
+ANTELOPE
+Habitat:  Fields, Forests, Hills, Mountains.
+Frequency: Uncommon
+Active: All Times
+
+#
+RAM
+Habitat: Hills, Mountains.
+Frequency: Rare 
+Active: Day 
+
+#
+QUAIL
+Habitat: Fields, Forests, Hills, Mountains.
+Frequency: Very Common
+Active: Day
+
+#
+PHEASANTS
+Habitat: Fields, Forests, Hills, Mountains.
+Frequency: Rare
+Active: Day
+
+#
+RABBITS
+Habitat: Fields, Forests, Hills, Mountains, 
+Frequency: Very Common
+Active: Day
+
+#
+ELK
+Habitat: Mountain Lakes and Rivers
+Frequency: Rare
+Active: All Times
+
+#
+BEAR
+Habitat: Mountains, Hills.
+Frequency: Very Rare
+Active: Days, Summer Months
+
+#
+TURKEY
+Habitat: Fields, Forests, Hills, Mountains.
+Frequency: 
+Active: 
+
+#
+GOBLINS
+Habitat: Fields, Forests, Hills, Mountains, Caves. 
+Frequency: Rare
+Active: Nights
+
+#
+BUGBEAR "BUG BEARS"
+Habitat: Fields, Forests, Hills, Mountains, Caves. 
+Frequency: Very Rare
+Active: Nights
+
+#
+HOBGOBLINS "HOB GOBLINS"
+Habitat: Fields, Forests, Hills, Mountains, Caves
+Frequency: Very Rare
+Active: Nights
+
+#
+"STREET SWEEPERS" 
+Found: Allyton
+
+These are the poor souls Allyton has to hire to clean up after the players.
+
+#
+"HOUSE LEADERS"
+Found: Allyton
+
+House Leaders are responsible for giving out jobs to their fellow
+house members. If you ever need to make some quick cash, you House
+Leader is the guy to ask.
+
+#
+"City Guards"
+Found: Allyton
+
+Keepers of the peace. Guys who will cold cock you if you carry a weapon
+in town.
+
+#
+SQUIRREL
+Habitat: Acorn Forests
+Frequency: Common
+Active: Any Time
+
+Hungry squirrels eat acorns. Hungry wolves eat squirrels. Thus the
+circle of life is complete.
+
+#
+WOLF WOVLES DIRE "DIRE WOLF"
+Habitat: Acorn Forests
+Frequency: Uncommon
+Active: Any Time
+
+A hungry wolf will eat anything, including pigs. A smart player will
+keep the Acorn Forest wolves well fed to insure the safety of their pig.
+Crabs are deathly afraid of wolves and will run away at the sight of one.
+
+See Also: FEED
+
+#
+SKELETON
+Habitat: Acorn Forests
+Frequency: Rare 
+Active: Any Time
+
+When a player manages to get killed by a goblin or eaten by a wolf his bones
+become an animated skeleton. For some unknown reason the skeletons stalk
+the Acorn Forest. Skeletons never bother people or wildlife.
+
+Skeletons do have an unrelenting need to kill and devour pigs. If a skeleton
+hears the sound of a pig eating an acorn, he will track that pig until he
+or the pig is dead.
+
+Pig Farmers will do well to stay clear of skeletons.
+
+#
+Crab
+Habitat: Acorn Forests
+Frequency: Uncommon 
+Active: Any Time
+
+The crabs of the Acorn Forest have always been known to be lovers of acorns.
+Recently a new breed of crabs have taken over the forest.
+
+These new crabs have a taste for baby pig. A crab will kill any pig under
+ten pounds. Crabs are attracted to the sound of eating pigs.
+
+Pig Farmers beware.
+
+#
+"GAME FISH"
+Habitat: Any Body of Water 
+Frequency: Common 
+Active: Varies by Specie 
+
+Aarait contains over 75 varieties of game fish. Ranging from less than a 
+pound, to massive 300 pound Bennyfishes.
+
+See the RECORD command for the listing of current fishing records. 
+See the FISH command for your fishing stats.
+
+See Also: CAST, REEL, BAIT, AUTOBAIT
+ 
+#
+PIGS 
+Habitat: Acorn Forest
+Frequency: Common
+Active: Any Time
+
+These guys are the basis of wealth in Allyton. A man that has a herd of large
+smelly pigs is a rich man in Allyton.
+
+Pigs are fond of acorns and mushrooms. Pigs will gain weight rapidly when fed
+either.
+
+Pigs bought from the Pig Trader have all been trained to search for food when
+they hear a shout of, 'SOUWEE'.
+
+Pigs are deathly afraid of crabs, skeletons, and wolves. They will avoid such
+creatures when possible.
+
+Here is the quick and dirty pig farming tutorial.
+
+1. Buy a pig. The pig will follow you.
+2. Take the pig into the acorn forest. Move around
+   until you find an acorn.
+3. When you find an acorn, type SOUWEE.
+4. The pig will eat the acorn.
+5. The acorn forest animals will hear the pig eat the
+   acorn. If they are hungry they will begin moving
+   towards the pig.
+6. Keep feeding the pig acorns, it will gain weight.
+   Look at the pig to see its current weight.
+7. Once you think the pig is heavy enough, sell it.
+8. Wash, rinse, repeat.
+
+See Also: SOUWEE
+
+#
+FOX
+Habitat: Acorn Forest
+Frequency: Uncommon
+Active: Any Time
+
+#
+RACOON
+Habitat: Wooded Streams
+Frequency: Rare
+Active: Night
+
+#
+$~

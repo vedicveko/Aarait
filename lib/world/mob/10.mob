@@ -1,0 +1,68 @@
+#1000
+Abram Kensington~
+Abram Kensington~
+Abram Kensington stands here.
+~
+Innkeeper REMOVE.
+~
+32778 0 0 E
+30 20 1 13d0+1 1d1+0
+0 0
+8 8 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+Class: 8
+Race: 7
+Weight: 200
+Size: 0
+E
+#1001
+Aeron Kensington~
+Aeron Kensington~
+Aeron Kensington stands here.
+~
+BUTCHER REMOVE.
+~
+10 0 0 E
+30 20 1 13d0+1 1d1+0
+0 0
+8 8 1
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+Class: 8
+Race: 7
+Weight: 200
+Size: 0
+E
+#1002
+Evola jacobs ticket clerk~
+Evola the ticket clerk~
+Evola the ticket clerk stands here, taking tickets.
+~
+She looks at you longingly, I guess she never gets to ride the ferry.  Always a
+bride's maid, never the bride.
+~
+11 0 0 E
+29 20 1 13d0+1 1d1+0
+0 0
+8 8 2
+Str: 11
+Dex: 11
+Int: 11
+Wis: 11
+Con: 11
+Cha: 11
+Class: 8
+Race: 7
+Weight: 110
+Size: 0
+E
+$

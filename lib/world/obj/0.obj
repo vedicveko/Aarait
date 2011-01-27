@@ -1,0 +1,248 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0 0
+0 0 0 0 5 5
+0 0 0 0
+#1
+flannel shirt~
+a flannel shirt~
+A flannel shirt has been left here.~
+~
+9 0 1025 0
+1 0 0 0 5 5
+0 3 0 0
+#2
+pants denim~
+a pair of denim pants~
+A pair of denim pants have been left here.~
+~
+9 0 33 0
+1 0 0 0 5 5
+2 5 0 0
+#3
+shoes sneakers~
+a pair of sneakers~
+A pair of sneakers have been left here.~
+~
+9 0 65 0
+1 0 0 0 5 6
+1 2 0 0
+#4
+lantern~
+a brass lantern~
+A brass lantern has been left here.~
+~
+1 0 16385 0
+0 0 100 0 60 60
+1 1 0 0
+#5
+t-shirt~
+a t-shirt~
+A t-shirt lies crumpled on the ground.~
+~
+9 0 9 0
+1 0 0 0 5 5
+1 1 0 0
+#6
+fishing pole bamboo~
+a bamboo fishing pole~
+A bamboo fishing pole has been dropped here.~
+~
+25 0 8193 0
+0 0 0 0 30 30
+1 1 0 0
+#7
+worm bait~
+a worm~
+A worm wiggles on the ground.~
+~
+26 0 1 0
+4 0 0 0 5 5
+0 0 0 0
+#8
+straw brimmed hat~
+a floppy brimmed straw hat~
+A straw hat has been dropped here.~
+~
+9 0 17 0
+1 0 0 0 5 5
+0 0 0 0
+#9
+map allyton~
+a map of allyton~
+A sheet of paper lies here.~
+~
+13 0 1 0
+0 0 0 0 5 5
+0 0 0 0
+E
+map allyton~
+
+                    *-*-*-*
+                    |     |
+                    *-A   *
+                    |     |
+                    *-B C-*  
+                    |     |
+          D * E *-*-*-*-*-*-*-*-*-* F 
+          | | | |   |             | |  
+          *-*-*-G-H *           I *-*-*
+          | |       |           | |
+          * * J     *-K         I-*
+          | | |     |             |
+        *-* *-*-*-*-*-*-*-*-*-*-*-*-L   
+
+
+A: Weapon Store         B: Tannery
+C: Armour Shoppe        D: Inn 
+E: Butcher              F: Bait Shoppe 
+G: Fish Market          H: Fish Buyer 
+I: Pig Market           J: General Store 
+K: Fishing Supply       L: Post Office and Bank 
+
+West:  Allyton Lake
+South: The Acorn Forest
+North: Benny Mountain
+
+~
+#10
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 64 1 0
+24 0 0 0 5 5
+1 50 50 0
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#11
+dagger~
+a dagger~
+A dagger has been left here.~
+~
+5 0 40961 0
+0 1 4 14 50 50
+1 2 1 0
+#12
+A blak obj~
+a throwing spear~
+A throwing spear has been left here.~
+~
+5 2 1 0
+0 1 6 11 0 0
+2 1 0 0
+#13
+ball cap~
+a ball cap~
+A ball cap has been dropped here.~
+~
+9 0 17 0
+2 0 0 0 5 5
+0 0 0 0
+#14
+fezz red~
+a red fezz~
+A red fezz has been left here.~
+~
+9 0 17 0
+1 0 0 5 5 5
+0 0 0 0
+#15
+boots deer skin~
+a pair of deer skin boots~
+A pair of deer skin boots have been left here.~
+~
+9 0 65 0
+1 0 0 0 20 20
+2 500 1 0
+#16
+needle thread~
+a needle and thread~
+A needle and thread have been left here.~
+~
+12 0 1 0
+0 0 0 0 1 1
+0 50 1 0
+#17
+armour bear skin~
+some bear skin armour~
+Some bear skin armour lies here.~
+~
+9 0 9 0
+3 0 0 0 20 20
+25 1500 1 0
+#18
+legging ram hide~
+some ram hide leggings~
+A set of ram hide leggins has been left here.~
+~
+9 0 33 0
+1 0 0 0 15 15
+10 700 1 0
+#19
+cloak red fox fur~
+a red fox fur cloak~
+A red fox fur cloak lies here.~
+~
+9 0 1025 0
+1 0 0 0 10 10
+0 10 1 0
+#20
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+24 0 1 0
+0 0 0 0 0 0
+0 0 0 0
+#89
+poo poop crap shit caca~
+some poo~
+Some poo lies here in a steaming pile.~
+~
+26 0 1 0
+30 0 0 0 0 0
+1 1 1 0
+E
+poo crap shit poop~
+This may just make good fish bait.
+~
+#90
+arrow~
+a arrow~
+An arrow is lying here.~
+Nothing.
+~
+5 2 1 0
+0 1 1 11 5 5
+0 10 1 0
+#91
+bolt~
+a crossbow bolt~
+A crossbow bolt is lying here.~
+~
+5 2 1 0
+0 1 1 11 5 5
+0 10 1 0
+#99
+scythe death~
+the Scythe of Death~
+The Scythe of Death rests heavily on the ground.~
+~
+5 30220 8193 0
+0 15 15 5 0 0
+40 0 50000 0
+E
+scythe death~
+It is a very heavy scythe.  The grey handle is made from hard wood and the
+long iron blade is completely smooth from countless years of use.  It feels
+cold to the touch.
+~
+$~

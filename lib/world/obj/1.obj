@@ -1,0 +1,374 @@
+#101
+sausage~
+a pork sausage~
+Someone has dropped a pork sausage.~
+
+f
+~
+19 0 1 0
+10 0 0 9 5 5
+0 4 1 0
+#110
+message board~
+a message board~
+A message board has been hung from the wall.~
+~
+12 0 0 0
+0 0 0 0 5 5
+9999999 0 0 0
+#111
+poleaxe pole axe~
+a pole axe~
+A long pole axe is stuck in the ground.~
+~
+5 524288 8193 0
+3 3 6 11 30 30
+3 4 3 0
+#112
+worm bait~
+a worm~
+A worm wiggles on the ground.~
+~
+26 0 1 0
+4 0 0 0 0 5
+0 10 1 0
+#113
+liver chunk bait~
+a chunk of liver~
+A smelly piece of liver has been dropped here.~
+~
+26 0 1 0
+5 0 0 0 0 5
+1 5 0 0
+#114
+minnow bait~
+a minnow~
+A minnow wiggles on the ground.~
+~
+26 0 1 0
+0 0 0 0 0 5
+0 2 1 0
+#115
+bacon bait~
+a piece of bacon~
+A piece of bacon has been dropped on the ground.~
+~
+26 0 1 0
+5 0 0 0 0 5
+0 7 1 0
+#116
+earthworm worm bait~
+an earthworm~
+A earthworm wiggles on the ground.~
+~
+26 0 1 0
+4 0 0 0 0 5
+0 1 1 0
+#117
+grasshopper bait~
+a grasshopper~
+A grasshopper wiggles on the ground.~
+~
+26 0 1 0
+3 0 0 0 0 5
+0 2 1 0
+#118
+crawfish bait~
+a crawfish~
+A crawfish wiggles on the ground.~
+~
+26 0 1 0
+3 0 0 0 0 5
+0 1 1 0
+#119
+beer bottle bait~
+a beer bottle~
+A beer bottle has been dropped here.~
+~
+26 0 1 0
+8 0 0 0 0 5
+0 1 1 0
+#120
+fly bait~
+a fly~
+A fly wiggles on the ground.~
+~
+26 0 1 0
+3 0 0 0 0 5
+0 8 1 0
+#121
+cricket bait~
+a cricket~
+A cricket wiggles on the ground.~
+~
+26 0 1 0
+2 0 0 0 0 5
+0 3 1 0
+#122
+moss bait~
+a clump of moss~
+A clump of moss has been dropped here.~
+~
+26 0 1 0
+9 0 0 0 0 5
+0 9 1 0
+#123
+worm red bait~
+a red worm~
+A red worm wiggles on the ground.~
+~
+26 0 1 0
+4 0 0 0 0 5
+0 1 1 0
+#124
+maggot bait~
+a maggot~
+A maggot wiggles on the ground.~
+~
+26 0 1 0
+2 0 0 0 0 5
+0 4 1 0
+#125
+shiny metal bait~
+a piece of shiny metal~
+A piece of shiny metal has been dropped here.~
+~
+26 0 1 0
+14 0 0 0 0 5
+0 9 1 0
+#126
+pole bamboo fishing~
+a bamboo fishing pole~
+A bamboo fishing pole has been left here.~
+~
+25 0 8193 0
+0 0 0 0 20 20
+1 50 1 0
+#127
+worm blue bait~
+a blue worm~
+A blue worm wiggles on the ground.~
+~
+26 0 1 0
+4 0 0 0 0 5
+0 14 1 0
+#128
+pole nirin fishing~
+a nirin wood fishing pole~
+A nirin wood fishing pole has been left here.~
+~
+25 0 8193 0
+0 0 0 0 100 100
+4 4500 10 0
+#129
+pole deer antler~
+a deer antler fishing pole~
+A deer antler fishing pole lies here.~
+~
+25 0 8193 0
+0 0 0 0 50 50
+2 2000 5 0
+#130
+raft wood~
+a wood raft~
+A wood raft has been left here.~
+~
+22 0 1 0
+0 0 0 0 50 50
+25 13000 25 0
+#131
+boat metal~
+a small metal boat~
+A small metal boat has been left here.~
+~
+22 0 1 0
+0 0 0 0 75 75
+40 8000 30 0
+#132
+lantern~
+a brass lantern~
+A brass lantern has been left here.~
+~
+1 0 16385 0
+0 0 100 0 60 60
+1 700 0 0
+#133
+straw brimmed hat~
+a floppy brimmed straw hat~
+A straw hat has been dropped here.~
+~
+9 0 17 0
+1 0 0 0 5 5
+0 1 0 0
+#134
+map allyton~
+a map of allyton~
+A sheet of paper lies here.~
+~
+13 0 1 0
+0 0 0 0 5 5
+0 1 0 0
+E
+map allyton~
+
+                    *-*-*-*
+                    |     |
+                    *-A   *
+                    |     |
+                    *-B C-*
+                    |     |
+          D * E *-*-*-*-*-*-*-*-*-* F
+          | | | |   |             | |
+          *-*-*-G-H *           I *-*-*
+          | |       |           | |
+          * * J     *-K         I-*
+          | | |     |             |
+        *-* *-*-*-*-*-*-*-*-*-*-*-*-L
+
+
+A: Weapon Store         B: Tannery
+C: Armour Shoppe        D: Inn
+E: Butcher              F: Bait Shoppe
+G: Fish Market          H: Fish Buyer
+I: Pig Market           J: General Store
+K: Fishing Supply       L: Post Office and Bank
+
+
+West:  Allyton Lake
+South: The Acorn Forest
+North: Benny Mountain
+
+~
+#135
+ball cap~
+a ball cap~
+A ball cap has been dropped here.~
+~
+9 0 17 0
+2 0 0 0 5 5
+0 1 0 0
+#136
+fezz red~
+a red fezz~
+A red fezz has been left here.~
+~
+9 0 17 0
+1 0 0 5 5 5
+0 1 0 0
+#137
+dagger~
+a dagger~
+A dagger has been left here.~
+~
+5 0 40961 0
+0 1 4 14 50 50
+1 200 1 0
+#138
+a blank obj~
+a throwing spear~
+A throwing spear has been left here.~
+~
+5 2 1 0
+0 1 6 11 0 0
+2 1 0 0
+#139
+gloves leather~
+a pair of leather gloves~
+A pair of leather glvoes lie here.~
+~
+9 0 129 0
+1 0 0 0 0 10
+1 200 10 0
+#140
+leggings leather~
+a set of leather leggings~
+A set of leather leggings lie here.~
+~
+9 0 33 0
+7 0 0 0 0 10
+3 400 1 0
+#141
+backpack~
+a backpack~
+A backpack has been dropped here.~
+~
+15 0 1025 0
+15 0 0 0 10 10
+2 200 1 0
+#142
+chum bucket~
+a bucket of chum~
+A bucket of chum has been left here.~
+~
+12 0 1 0
+2 0 0 0 10 10
+5 100 10 0
+#143
+chum bucket large~
+a large bucket of chum~
+A bucket of chum has been left here.~
+~
+12 0 1 0
+5 0 0 0 10 10
+8 200 20 0
+#144
+wooden lure bait~
+a wooden lure~
+A wooden lure has been dropped here.~
+~
+26 0 1 0
+900 0 0 0 10 10
+0 0 0 0
+#145
+metal lure hook~
+a metal lure hook~
+A metal lure hook has been dropped here.~
+~
+13 0 1 0
+0 0 0 0 10 10
+0 1 0 0
+E
+metal lure hook~
+I bet you could craft something from this....
+~
+#146
+worm plastic bait lure~
+a plastic worm~
+A plastic worm has been dropped here.~
+~
+26 0 1 0
+100 0 0 0 10 10
+0 1000 10 0
+#147
+spinner bait lure~
+a spinner bait~
+A spinner bait has been dropped here.~
+~
+26 0 1 0
+200 0 0 0 10 10
+0 1600 1 0
+#148
+plug lure bait~
+a plug lure~
+A plug lure has been left here.~
+~
+26 0 1 0
+200 0 0 0 10 10
+0 1700 0 0
+#149
+fake crawfish lure bait~
+a fake crawfish~
+A fake crawfish has been left here.~
+~
+26 0 1 0
+300 0 0 0 10 10
+0 1800 0 0
+#150
+fake frog lure bait~
+a fake frog~
+A fake frog has been left here.~
+~
+26 0 1 0
+500 0 0 0 10 10
+0 3000 0 0
+$~

@@ -1,0 +1,169 @@
+AREAS
+
+   This is a listing of the areas available for exploration.
+
+Allyton			-		
+Acorn Forest		-		
+Allyton Lake		-		
+Benny Mountain		-		
+The Farm Lands          - 
+
+#
+BOARDS
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  [writes the message; terminates with a '@']
+  > look at board
+  > read 6
+  > remove 6
+
+See Also: MAIL, READ, WRITE
+#
+FISHERMAN
+
+This is the Fisherman occupation
+
+See Also: JOBS
+
+#
+"GOBLIN SLAYER" GOBLIN
+
+This is the Goblin Slayer occupation.......
+
+See Also: JOBS
+
+#
+HOUSES
+
+
+See also: 
+#
+JOBS
+
+Goblin Slayer
+Fisherman
+Pig Farmer
+
+See Also:
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure.
+
+Specifically, the game will save your equipment while you are logged out.
+There is a daily cost for renting, based on your equipment.  Each item has
+a per diem charge.  The per diem charge is calculated to the nearest second,
+however -- if you rent at the rate of 2400 coins per day, and you come back
+39 hours later, you will be charged 3900 coins.
+
+A CRYOGENIC CENTER will store your items for a one-time charge of four
+days rent.
+
+Rent files are deleted if you run out of money to pay the per diem charges
+or after 30 days.  Cryogenic-rent files are deleted after 60 days.
+
+See also: OFFER, RENT
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+"ALLYTON MAP" ALLYTON
+
+          A * B *-*-*-*-*-*-*-*-*-* C
+          | | | |   |   | | | |   | |  
+          *-*-*-D-E *-F G H I J   *-*-*
+          | |       |             |
+          * * K     *-L M N O O P-*
+          | | |     |   | | | |   |
+        *-* *-*-*-*-*-*-*-*-*-*-*-*-*-Q   
+
+
+A: Allyton Inn          B: Butcher Shop
+C: Bait Shop            D: Fish Market
+E: Market Buyer         F: House Veko
+G: Tannery              H: Armory and Blacksmith
+I: House Kensington     J: House Fenix
+K: General Store        L: Fishing Supply Store
+M: House de Tourneville N: House Esinon
+O: House Bennyson       P: Pig Market
+Q: Post Office and Bank   
+
+
+See Also: "ACORN FOREST" "ALLYTON LAKE" "BENNY MOUNTAIN"
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact.  Many shops trade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+CIRCLE CIRCLEMUD CREDITS
+
+Please use the CREDITS command for current credits.
+
+
+#
+JOB
+
+Info on JOBS
+
+#
+"ACORN FOREST"
+
+#
+"BENNY MOUNTAIN"
+
+#
+"THE FARMLANDS"
+
+#
+"ALLYTON LAKE"
+
+#
+POINTS
+
+Points are an abstract measurment of your progress in your current job.
+The more points you have, the closer you are to completing your job.
+
+Once you have enough points you can complete your job and select another.
+#
+$

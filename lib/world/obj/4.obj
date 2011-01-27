@@ -1,0 +1,296 @@
+#400
+blacktail deer skin~
+a blacktail deer skin~
+A brown haired skin lies on the ground.~
+~
+8 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#401
+blacktail deer horn~
+a blacktail deer horn~
+A blacktail deer horn has been dropped here.~
+Nothing.
+I bet this would make great fishing bait!
+~
+19 1 1 0
+0 0 0 0 10 10
+0 0 0 0
+#402
+blacktail deer meat~
+some blacktail deer meat~
+Some cuts of deer meat have been left here.~
+~
+19 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#403
+ram skin~
+a ram skin~
+A dirty white haired skin has been left here.~
+~
+8 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#404
+ram horn~
+a ram's horns~
+The horns of a ram have been left here.~
+~
+19 1 1 0
+0 0 0 0 10 10
+0 0 0 0
+#405
+elk skin~
+an elk's skin~
+The skin of an elk has been left here.~
+~
+8 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#406
+elk meat~
+Some elk meat~
+The meat of an elk has been dropped here.~
+~
+19 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#407
+bear skin~
+a bear's skin~
+The skin of a bear lies on the ground.~
+~
+8 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#408
+bear teeth~
+Some bear teeth~
+The teeth of a bear lie here.~
+~
+19 1 1 0
+0 0 0 0 10 10
+0 0 0 0
+#409
+goblin skin~
+a goblin skin~
+A smelly lump of skin lies here.~
+~
+8 1 1 0
+0 0 0 0 5 5
+0 0 0 0
+#410
+hobgoblin teeth~
+a set of hobgoblin teeth~
+A set of yellow teeth has been dropped here.~
+~
+19 1 1 0
+0 0 0 0 10 10
+0 0 0 0
+#411
+bug bear teeth~
+a set of bug bear teeth~
+A set of wicked looking teeth lie here.~
+~
+19 1 1 0
+0 0 0 0 10 10
+0 0 0 0
+#412
+mace~
+a plain mace~
+A plan mace lies here.~
+~
+5 0 8193 0
+0 1 6 5 70 70
+6 5 2 0
+#413
+club wooden~
+a wooden club~
+A wooden club lies here.~
+~
+5 0 8193 0
+0 1 6 5 20 20
+3 0 1 0
+#414
+sword short~
+a battered short sword~
+A battered short sword lies here.~
+~
+5 0 8193 0
+0 1 6 3 60 60
+3 10 2 0
+#415
+sword short~
+a short sword~
+A short sword has been dropped here.~
+~
+5 0 8193 0
+0 1 8 3 80 80
+3 10 2 0
+#416
+A blank obj~
+a throwing spear~
+A throwing spear has been dropped here.~
+~
+5 2 1 0
+0 1 6 11 30 30
+5 2 1 0
+#417
+spear long~
+a long spear~
+A long spear has been dropped here.~
+~
+5 0 8193 0
+0 1 6 11 30 30
+5 2 1 0
+#418
+tattered leather armour~
+some tattered leather armour~
+Some tattered leather armour has been dropped here.~
+Nothing.
+~
+9 0 1025 0
+10 0 0 0 8 8
+15 500 100 0
+#419
+armour leather~
+some leather armour~
+Some leather armour has been dropped here.~
+~
+9 0 9 0
+10 0 0 0 11 11
+15 500 200 0
+#420
+leather cap~
+a leather cap~
+A leather cap has been dropped here.~
+~
+9 0 17 0
+2 0 0 0 10 10
+1 1 1 0
+#421
+hide deer skin~
+the hide of a deer~
+A hide has been dropped here.~
+~
+8 1 1 0
+0 0 0 0 0 10
+3 3 2 0
+#422
+deer antler~
+a deer's antlers~
+The antlers of a deer lies here.~
+~
+19 1 1 0
+24 0 0 0 0 10
+2 4 2 0
+E
+deer antler~
+I bet you could craft something from this...
+~
+#423
+deer meat~
+some deer meat~
+Some deer meat lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#424
+antelope hide~
+the hide of an antelope~
+A hide has been dropped here.~
+~
+8 1 1 0
+0 0 0 0 0 10
+3 3 2 0
+#425
+antelope horn~
+an antelope's horns~
+The horns of an antelope lies here.~
+~
+19 1 1 0
+24 0 0 0 0 10
+2 4 2 0
+#426
+antelope meat~
+some antelope meat~
+Some antelop meat lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#427
+rabbit meat~
+some rabbit meat~
+Some rabbit meat lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#428
+rabbit hide skin~
+the hide of a rabbit~
+A hide has been dropped here.~
+~
+8 1 1 0
+0 0 0 0 0 10
+3 3 2 0
+#429
+quail meat~
+some quail meat~
+Some quail meat lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#430
+quail feathers~
+some quail feathers~
+Some quail feathers lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#431
+turkey meat~
+some turkey meat~
+Some turkey meat lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#432
+turkey feathers~
+some turkey feathers~
+Some turkey feathers lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#433
+pheasant meat~
+some pheasant meat~
+Some pheasant meat lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#434
+pheasant feathers~
+some pheasant feathers~
+Some pheasant feathers lies here.~
+~
+19 1 1 0
+24 0 0 0 0 2
+10 3 2 0
+#450
+stinky rotten fish~
+a stinky rotten fish~
+Someone has dropped a stinky rotten fish here.~
+~
+24 0 1 0
+2 0 0 0 0 0
+2 0 2 0
+$~
